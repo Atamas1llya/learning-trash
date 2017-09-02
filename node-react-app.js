@@ -16,12 +16,12 @@ const createFile = (url, data) => {
   fs.writeFileSync(url, data);
 }
 
-var unlink = (path) => {
+const unlink = (path) => {
   if (fs.existsSync(path)) {
     fs.readdirSync(path).forEach((file, index) => {
       const curPath = `${path}/${file}`;
       if (fs.lstatSync(curPath).isDirectory()) {
-        deleteFolderRecursive(curPath);
+        unlink(curPath);
       } else {
         fs.unlinkSync(curPath);
       }

@@ -9,15 +9,11 @@ const rl = readline.createInterface({
 const encrypt = (string, password) =>
   crypto.createHmac('sha256', password).update(string).digest('hex');
 
-process.stdout.write('\033c');
-
 rl.question('Your text: \n', (string) => {
-  process.stdout.write('\033c');
 
-  rl.question('Your password: \n', (password) => {
-    process.stdout.write('\033c');
-    
-    console.log(encrypt(string, password));
+  rl.question('Your password: \x1b[8m\n', (password) => {
+
+    console.log('\x1b[0m Encrypted text:', encrypt(string, password));
     process.exit();
   })
 });

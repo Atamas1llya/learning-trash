@@ -3,7 +3,7 @@ const decimalToBinary = (decimal) => {
   let rest = decimal;
 
   while (rest > 0) {
-    if (rest === 1) {
+    if (+rest === 1) {
       bits[bits.length - 1] = '1';
       rest = 0;
     }
@@ -29,5 +29,7 @@ const decimalToBinary = (decimal) => {
   }
   return bits.reverse().join('');
 }
+
+module.exports = decimalToBinary;
 
 console.log(decimalToBinary(+process.argv[2]));

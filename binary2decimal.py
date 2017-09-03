@@ -1,4 +1,4 @@
-import sys
+import sys;
 
 def binary2decimal(binary):
     binary = list(binary)[::-1];

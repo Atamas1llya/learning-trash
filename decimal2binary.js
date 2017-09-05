@@ -1,3 +1,4 @@
+
 const decimalToBinary = (decimal) => {
   let bits = ['0'];
   let rest = decimal;
@@ -31,5 +32,7 @@ const decimalToBinary = (decimal) => {
 };
 
 console.log(decimalToBinary(+process.argv[2]));
+
+// console.log((+process.argv[2]).toString(2));
 
 module.exports = decimalToBinary;

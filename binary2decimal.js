@@ -1,4 +1,5 @@
 const binary2decimal = (binary) => {
+  console.log(binary);
   let decimal = 0;
   binaryArr = binary.split('').reverse();
   binaryArr.forEach((byte, index) => {
@@ -9,4 +10,5 @@ const binary2decimal = (binary) => {
   return decimal;
 }
 
-console.log(binary2decimal(process.argv[2]));
+// console.log(binary2decimal(process.argv[2]));
+binary2decimal(process.argv[2])

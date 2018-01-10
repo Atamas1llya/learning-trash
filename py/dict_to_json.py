@@ -1,29 +1,30 @@
-import random
-import sys
-import os
 import json
 
-def port(key, value, shift, pop):
-    json_str = ""
+def value_to_json(value):
     if isinstance(value, str):
-        json_str += f'{shift}"{key}": "{value}"{pop}'
+        return f'"{value}"'
     elif isinstance(value, int) or isinstance(value, float):
-        json_str += f'{shift}"{key}": {value}{pop}'
+        return value
     elif isinstance(value, dict):
-        value = json_stringify(value)
-        json_str += f'{shift}"{key}": {value}{pop}'
-    return json_str
+        return json_stringify(value)
+    else:
+        return '"UNSUPPORTED"'
+
+def punctuate(chunk, index, json_size, indentation):
+    if index == 0:
+        return f'{{{chunk},'
+    elif index == json_size - 1:
+        return f'{chunk}}}'
+    else:
+        return f'{chunk},'
 
 def json_stringify(dict):
     json_str = ""
 
     for index, key in enumerate(dict):
-        if index == 0:
-            json_str += port(key, dict[key], '{', ', ')
-        elif index == len(dict) - 1:
-            json_str += port(key, dict[key], '', '}')
-        else:
-            json_str += port(key, dict[key], '', ', ')
+        json_value = value_to_json(dict[key])
+        json_chunk = f'"{key}": {json_value}'
+        json_str += punctuate(json_chunk, index, len(dict), False)
 
     return json_str
 
@@ -34,7 +35,7 @@ d = {
     "test4": {
         "test": "test",
         "test2": "test2",
-        "test3": 2,
+        "test3": (1, 2, 3),
         "test4": {
             "test": "test",
             "test2": "test2",

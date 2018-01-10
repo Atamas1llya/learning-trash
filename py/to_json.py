@@ -8,7 +8,7 @@ def value_to_json(value, indentation, indent_char):
     elif isinstance(value, dict):
         return json_stringify(value, indentation + indent_char, indent_char)
     else:
-        return '"UNSUPPORTED"'
+        raise ValueError(f'Unsupported type: {type(value)}')
 
 def punctuate(chunk, index, json_size, indentation):
     if index == 0:
@@ -37,8 +37,9 @@ d = {
     "test4": {
         "test": "test",
         "test2": "test2",
-        "test3": (1, 2, 3),
-        "test4": {
+        # "test3": [1, 2, 3],
+        # "test4": (1, 2, 3),
+        "test5": {
             "test": "test",
             "test2": "test2",
             "test3": 3,

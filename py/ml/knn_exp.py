@@ -18,7 +18,7 @@ class KNeighborsClassifier:
         predictions = []
 
         for X in test_x:
-            label, nearest = self.find_nearest(X)
+            label = self.find_nearest(X)
             predictions.append(label)
 
         # print(f'Nearest distance: {nearest}')
@@ -42,9 +42,15 @@ class KNeighborsClassifier:
             match_neigh = [self.train_y[item[0]] for item in nearests].count(self.train_y[item[0]])
             rated_dist.append([self.train_y[item[0]], item[1] / match_neigh])
 
-        nearest_index = [item[1] for item in rated_dist].index(min([item[1] for item in rated_dist]))
-        nearest_label = rated_dist[nearest_index]
-        return nearest_label
+        sum_dist = {}
+
+        for item in rated_dist:
+            if not item[0] in sum_dist:
+                sum_dist[item[0]] = item[1]
+            else:
+                sum_dist[item[0]] += item[1]
+
+        return min(sum_dist, key=sum_dist.get)
 
 
 from sklearn import datasets
@@ -58,7 +64,7 @@ from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
 
 
-classifier = KNeighborsClassifier(1)
+classifier = KNeighborsClassifier(3)
 classifier.train(X_train, y_train)
 
 predictions = classifier.predict(X_test)

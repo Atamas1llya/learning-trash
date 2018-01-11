@@ -36,10 +36,15 @@ class KNeighborsClassifier:
                     nearests.remove(max(nearests))
                     nearests.append([index, dist])
 
-        for item in nearests:
-            print(self.train_y[item[0]], ' - ', item[1])
+        rated_dist = []
 
-        return 0, 0
+        for i, item in enumerate(nearests):
+            match_neigh = [self.train_y[item[0]] for item in nearests].count(self.train_y[item[0]])
+            rated_dist.append([self.train_y[item[0]], item[1] / match_neigh])
+
+        nearest_index = [item[1] for item in rated_dist].index(min([item[1] for item in rated_dist]))
+        nearest_label = rated_dist[nearest_index]
+        return nearest_label
 
 
 # from sklearn import datasets
@@ -65,6 +70,6 @@ class KNeighborsClassifier:
 X = [[0], [1], [2], [3]]
 Y = [1, 0, 1, 1]
 
-classifier = KNeighborsClassifier(1)
+classifier = KNeighborsClassifier(3)
 classifier.train(X, Y)
-classifier.predict([1])
+print(classifier.predict([1.4]))

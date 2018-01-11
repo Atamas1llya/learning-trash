@@ -45,24 +45,3 @@ class KNeighborsClassifier:
         nearest_index = [item[1] for item in rated_dist].index(min([item[1] for item in rated_dist]))
         nearest_label = rated_dist[nearest_index]
         return nearest_label
-
-
-from sklearn import datasets
-
-iris = datasets.load_iris()
-X = iris.data
-y = iris.target
-
-from sklearn.model_selection import train_test_split
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
-
-
-classifier = KNeighborsClassifier(1)
-classifier.train(X_train, y_train)
-
-predictions = classifier.predict(X_test)
-
-from sklearn.metrics import accuracy_score
-
-print(accuracy_score(y_test, predictions))

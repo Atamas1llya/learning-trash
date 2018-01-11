@@ -10,7 +10,7 @@ def euc(a, b):
     return distance.euclidean(a, b)
 
 
-class KNeighborsClassifier:
+class K1NeighborsClassifier:
     def train(self, train_x, train_y):
         self.train_x = train_x
         self.train_y = train_y
@@ -37,24 +37,3 @@ class KNeighborsClassifier:
                 nearest_index = index
 
         return self.train_y[nearest_index], nearest_dist
-
-
-from sklearn import datasets
-
-iris = datasets.load_iris()
-X = iris.data
-y = iris.target
-
-from sklearn.model_selection import train_test_split
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
-
-
-classifier = KNeighborsClassifier()
-classifier.train(X_train, y_train)
-
-predictions = classifier.predict(X_test)
-
-from sklearn.metrics import accuracy_score
-
-print(accuracy_score(y_test, predictions))

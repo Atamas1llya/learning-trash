@@ -6,7 +6,7 @@ def euc(a, b):
     return distance.euclidean(a, b)
 
 
-class KNeighborsClassifier:
+class KNeighborsClassifierExp:
     def __init__(self, k):
         self.k = k
 
@@ -51,24 +51,3 @@ class KNeighborsClassifier:
                 sum_dist[item[0]] += item[1]
 
         return min(sum_dist, key=sum_dist.get)
-
-
-from sklearn import datasets
-
-iris = datasets.load_iris()
-X = iris.data
-y = iris.target
-
-from sklearn.model_selection import train_test_split
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
-
-
-classifier = KNeighborsClassifier(3)
-classifier.train(X_train, y_train)
-
-predictions = classifier.predict(X_test)
-
-from sklearn.metrics import accuracy_score
-
-print(accuracy_score(y_test, predictions))

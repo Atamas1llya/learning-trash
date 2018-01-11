@@ -2,15 +2,14 @@ import math
 import numpy as np
 from scipy.spatial import distance
 
-X = [[0], [1], [2], [3]]
-Y = [0, 0, 1, 1]
-
-
 def euc(a, b):
     return distance.euclidean(a, b)
 
 
 class KNeighborsClassifier:
+    def __init__(self, k):
+        self.k = k
+
     def train(self, train_x, train_y):
         self.train_x = train_x
         self.train_y = train_y
@@ -26,35 +25,46 @@ class KNeighborsClassifier:
         return predictions
 
     def find_nearest(self, x):
-        nearest_dist = euc(x, self.train_y[0])
-        nearest_index = 0
-
+        nearests = []
 
         for index, train_x in enumerate(self.train_x):
             dist = euc(x, train_x)
-            if (dist < nearest_dist):
-                nearest_dist = dist
-                nearest_index = index
+            if index < self.k:
+                nearests.append([index, dist])
+            else:
+                if dist < max([item[1] for item in nearests]):
+                    nearests.remove(max(nearests))
+                    nearests.append([index, dist])
 
-        return self.train_y[nearest_index], nearest_dist
+        for item in nearests:
+            print(self.train_y[item[0]], ' - ', item[1])
 
-
-from sklearn import datasets
-
-iris = datasets.load_iris()
-X = iris.data
-y = iris.target
-
-from sklearn.model_selection import train_test_split
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
+        return 0, 0
 
 
-classifier = KNeighborsClassifier()
-classifier.train(X_train, y_train)
+# from sklearn import datasets
+#
+# iris = datasets.load_iris()
+# X = iris.data
+# y = iris.target
+#
+# from sklearn.model_selection import train_test_split
+#
+# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
+#
+#
+# classifier = KNeighborsClassifier(1)
+# classifier.train(X_train, y_train)
+#
+# predictions = classifier.predict(X_test)
+#
+# from sklearn.metrics import accuracy_score
+#
+# print(accuracy_score(y_test, predictions))
 
-predictions = classifier.predict(X_test)
+X = [[0], [1], [2], [3]]
+Y = [1, 0, 1, 1]
 
-from sklearn.metrics import accuracy_score
-
-print(accuracy_score(y_test, predictions))
+classifier = KNeighborsClassifier(1)
+classifier.train(X, Y)
+classifier.predict([1])

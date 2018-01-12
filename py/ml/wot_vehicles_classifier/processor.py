@@ -41,6 +41,17 @@ def request_tmm(tank_id, engines, guns, suspensions, radios, turrets, **keys):
     else:
         return None, keys['type']
 
-for vehicle in raw_data:
+for i, vehicle in enumerate(raw_data):
+    print(f'{i} / {len(raw_data)}')
     tmm, type = request_tmm(**vehicle)
-    print(tmm, type)
+    if tmm and type:
+        data_x.append(tmm)
+        data_y.append(type)
+
+data_obj = {
+    "X": data_x,
+    "Y": data_y
+}
+
+file = open('./datasets/wot.json', 'w')
+file.write(json.dumps(data_obj, indent=2))

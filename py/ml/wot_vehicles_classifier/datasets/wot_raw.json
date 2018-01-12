@@ -1,0 +1,2706 @@
+[{
+  "engines": [261, 5],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [259, 3]
+}, {
+  "engines": [4677, 6213, 4421],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [4931]
+}, {
+  "engines": [2309, 1541],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [2307, 2563]
+}, {
+  "engines": [24069],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [29955]
+}, {
+  "engines": [12565],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [25893, 25125],
+  "type": "lightTank",
+  "tier": 9,
+  "turrets": [31779, 32035]
+}, {
+  "engines": [22821, 22565],
+  "type": "SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [30997],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [15701],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [18771]
+}, {
+  "engines": [19477, 19733],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [2067, 2323]
+}, {
+  "engines": [2357, 1077, 2101],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [3379, 3123]
+}, {
+  "engines": [6709, 7989],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [6707, 6451]
+}, {
+  "engines": [581, 325],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [2149, 2917],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [2403, 2659]
+}, {
+  "engines": [4373, 4629],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [24853, 1045],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [3859, 3603]
+}, {
+  "engines": [10533],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [15395]
+}, {
+  "engines": [12629, 7253],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [13907, 13651]
+}, {
+  "engines": [8469],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [13331]
+}, {
+  "engines": [4949, 15957],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": [26195, 25939]
+}, {
+  "engines": [30741, 30485],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [41747, 41491]
+}, {
+  "engines": [3365, 3621, 19749],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [30469],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [43779]
+}, {
+  "engines": [1637, 1893, 2149],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [3939, 4195]
+}, {
+  "engines": [7189],
+  "type": "heavyTank",
+  "tier": 4,
+  "turrets": [12051]
+}, {
+  "engines": [8773],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [9283]
+}, {
+  "engines": [36373],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [48659]
+}, {
+  "engines": [15397],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [23587]
+}, {
+  "engines": [5973, 14421],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [14931, 15187]
+}, {
+  "engines": [4981, 5237],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [4467, 4211]
+}, {
+  "engines": [30997],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [34325],
+  "type": "lightTank",
+  "tier": 10,
+  "turrets": [47379]
+}, {
+  "engines": [6693, 293],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [7989, 1333],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [5683, 5427]
+}, {
+  "engines": [8245],
+  "type": "lightTank",
+  "tier": 10,
+  "turrets": [11827]
+}, {
+  "engines": [6789],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [643]
+}, {
+  "engines": [3333, 2821],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [5379, 5635]
+}, {
+  "engines": [15429, 15173],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [277, 533, 21],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [7187, 6931]
+}, {
+  "engines": [3157, 15957, 341],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [149],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [147]
+}, {
+  "engines": [6949, 8485],
+  "type": "mediumTank",
+  "tier": 2,
+  "turrets": [11043, 10787]
+}, {
+  "engines": [10757],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [14083]
+}, {
+  "engines": [9781, 10037],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [24837, 517],
+  "type": "SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [9285, 14405],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [5493],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [4723]
+}, {
+  "engines": [35861, 36117],
+  "type": "lightTank",
+  "tier": 5,
+  "turrets": [8723]
+}, {
+  "engines": [5973, 14421, 6229],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [7429],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [19459]
+}, {
+  "engines": [5381, 4869],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [11045],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [13091]
+}, {
+  "engines": [565],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [11315]
+}, {
+  "engines": [277, 533, 789],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [10771, 11027]
+}, {
+  "engines": [10533],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [14677, 16725],
+  "type": "SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [6437, 6181],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [5973, 6229],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [5203, 4947]
+}, {
+  "engines": [5893],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [10243]
+}, {
+  "engines": [7701, 7957, 8213],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [13075, 12819]
+}, {
+  "engines": [23589],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [37923]
+}, {
+  "engines": [3413, 12117],
+  "type": "SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [9509, 9765],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [26373, 33285],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [31235]
+}, {
+  "engines": [34565],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [12035]
+}, {
+  "engines": [27669],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [38931]
+}, {
+  "engines": [19477, 19733],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [16403, 16147]
+}, {
+  "engines": [24613],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [38947]
+}, {
+  "engines": [25621, 26389],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [32021],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [44051]
+}, {
+  "engines": [26661, 26405],
+  "type": "lightTank",
+  "tier": 5,
+  "turrets": [17187, 17443]
+}, {
+  "engines": [2341],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [1315]
+}, {
+  "engines": [5637, 10245],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [6453],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [10803]
+}, {
+  "engines": [11285],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [18451]
+}, {
+  "engines": [10277],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [40227]
+}, {
+  "engines": [4405, 4917, 4661],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [7475, 7219]
+}, {
+  "engines": [21525, 21013, 21269],
+  "type": "SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [13093],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [19235]
+}, {
+  "engines": [13061],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [36099]
+}, {
+  "engines": [837, 1093],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [579, 323]
+}, {
+  "engines": [14085],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [19971]
+}, {
+  "engines": [7701, 7957, 8213],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [20499, 20243]
+}, {
+  "engines": [3157, 3413],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": [26451]
+}, {
+  "engines": [12117, 12373, 9045, 3413],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [9811, 9555]
+}, {
+  "engines": [27909],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [37379]
+}, {
+  "engines": [16453],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [26179]
+}, {
+  "engines": [6533, 6277],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [5507]
+}, {
+  "engines": [1125, 1381],
+  "type": "mediumTank",
+  "tier": 2,
+  "turrets": [611]
+}, {
+  "engines": [3077, 261, 20485],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [15941, 16197],
+  "type": "SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [19477, 19733],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [12373],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [28755]
+}, {
+  "engines": [1141, 885],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [627, 883]
+}, {
+  "engines": [25605],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [38403]
+}, {
+  "engines": [133],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [131]
+}, {
+  "engines": [15621, 1029, 2565],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [21763, 21507]
+}, {
+  "engines": [1109],
+  "type": "mediumTank",
+  "tier": 1,
+  "turrets": [1107]
+}, {
+  "engines": [22853, 11077],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [7747]
+}, {
+  "engines": [16661, 5141],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [26643, 26387]
+}, {
+  "engines": [18693, 26117],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [34307, 34051]
+}, {
+  "engines": [373],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [115]
+}, {
+  "engines": [53],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [9267]
+}, {
+  "engines": [29701],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [39683]
+}, {
+  "engines": [261, 1029],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [23299, 23555]
+}, {
+  "engines": [3429, 3685],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [1891, 2147]
+}, {
+  "engines": [4677, 6213, 20805],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [28739, 28995]
+}, {
+  "engines": [773, 10245],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [12821, 17429, 16917],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [28691, 28435]
+}, {
+  "engines": [2405, 2661, 1381],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [4707, 4451]
+}, {
+  "engines": [17189],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [24867]
+}, {
+  "engines": [29957],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [1861, 1349],
+  "type": "SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [18437],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [25347, 25091]
+}, {
+  "engines": [21829, 21573],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [30787]
+}, {
+  "engines": [5477],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [7267]
+}, {
+  "engines": [19221],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [30739]
+}, {
+  "engines": [18981],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [26915]
+}, {
+  "engines": [29957],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [43523]
+}, {
+  "engines": [9221],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [3157, 7509],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [7251]
+}, {
+  "engines": [6229, 3413, 3157],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [3411, 3155]
+}, {
+  "engines": [3349, 5141],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": [32019]
+}, {
+  "engines": [293, 4901, 549],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [291, 547]
+}, {
+  "engines": [6501, 6757],
+  "type": "heavyTank",
+  "tier": 4,
+  "turrets": [8035]
+}, {
+  "engines": [34309],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [47875]
+}, {
+  "engines": [1845, 1077, 2101],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [2355, 2099]
+}, {
+  "engines": [261, 5],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [3587, 3843]
+}, {
+  "engines": [36629],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [49427]
+}, {
+  "engines": [5189, 4933],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [4419, 4675]
+}, {
+  "engines": [9477],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [12291]
+}, {
+  "engines": [5637, 10245],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [8707, 8963]
+}, {
+  "engines": [24837, 517],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [7269, 7013],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [9059]
+}, {
+  "engines": [5653],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [10515]
+}, {
+  "engines": [31493],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [46851]
+}, {
+  "engines": [25125, 25381],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [31011, 31267]
+}, {
+  "engines": [6469, 6213],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [5699]
+}, {
+  "engines": [5925, 5669],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": [5155]
+}, {
+  "engines": [277, 533, 21],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [10837, 11093],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [11603, 11347]
+}, {
+  "engines": [5173, 5429],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [7987, 7731]
+}, {
+  "engines": [31493],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [45059]
+}, {
+  "engines": [32789],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [45331]
+}, {
+  "engines": [11333, 11077],
+  "type": "lightTank",
+  "tier": 9,
+  "turrets": [7491]
+}, {
+  "engines": [581, 325],
+  "type": "SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [3093, 3605],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [3347, 3091]
+}, {
+  "engines": [20565],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [13395]
+}, {
+  "engines": [4965],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [5987]
+}, {
+  "engines": [28693, 29205],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [40211]
+}, {
+  "engines": [2853, 7461, 2597],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [6435, 6691]
+}, {
+  "engines": [13909],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [15443]
+}, {
+  "engines": [6933],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [11795]
+}, {
+  "engines": [597],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [28243]
+}, {
+  "engines": [613],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [1123]
+}, {
+  "engines": [26885, 33029],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [35331]
+}, {
+  "engines": [32277],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [47123]
+}, {
+  "engines": [7973, 5669, 37],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [8227, 7971]
+}, {
+  "engines": [1909, 1397, 1653],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [1395, 1139]
+}, {
+  "engines": [6709, 7733],
+  "type": "lightTank",
+  "tier": 9,
+  "turrets": [11571]
+}, {
+  "engines": [2565, 773],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [35843, 35587]
+}, {
+  "engines": [389],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [387]
+}, {
+  "engines": [19733, 19477, 4885],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [6419, 6675]
+}, {
+  "engines": [14677, 14933],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [26917, 27173],
+  "type": "lightTank",
+  "tier": 5,
+  "turrets": [10531]
+}, {
+  "engines": [10501],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [13827]
+}, {
+  "engines": [4101, 3589],
+  "type": "SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [7221],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [10291]
+}, {
+  "engines": [20501, 20245],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [8467, 8211]
+}, {
+  "engines": [16213],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": [17747]
+}, {
+  "engines": [629],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [371]
+}, {
+  "engines": [293, 3365, 20005],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [13829],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [10805, 10549],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [5125, 5381, 4869],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [5141, 6677, 3349],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [10003, 9747]
+}, {
+  "engines": [20773],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [23333],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [37411]
+}, {
+  "engines": [18181],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [773, 1285, 1029],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [9475, 9731]
+}, {
+  "engines": [7701, 7957, 7445],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [12563, 12307]
+}, {
+  "engines": [13349],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [37667]
+}, {
+  "engines": [5973, 6229],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [19493],
+  "type": "SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [7173, 8709, 6917],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [6469, 6213],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [31237],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [44803]
+}, {
+  "engines": [8981, 5397],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [15635, 15891]
+}, {
+  "engines": [9045],
+  "type": "SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [7301, 7557],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [6019]
+}, {
+  "engines": [11301, 11557],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [16931, 16675]
+}, {
+  "engines": [16661, 5141],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [27667, 27411]
+}, {
+  "engines": [25605],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [32003]
+}, {
+  "engines": [4613, 11269],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [14339, 14595]
+}, {
+  "engines": [4677, 6213, 4421],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [12837],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [5667]
+}, {
+  "engines": [20757],
+  "type": "SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [12837],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [39715]
+}, {
+  "engines": [18773, 10325],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [6197, 1333],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [8499, 8243]
+}, {
+  "engines": [3621, 12581],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": [18723, 18979]
+}, {
+  "engines": [1077, 2101],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [4403, 4659]
+}, {
+  "engines": [2565, 773],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [15875, 15619]
+}, {
+  "engines": [12869, 12613, 13125],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [17219, 17475]
+}, {
+  "engines": [4677, 6213, 4421],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [10307, 10563]
+}, {
+  "engines": [19989, 19733],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [19987, 19731]
+}, {
+  "engines": [3109, 3621, 3365],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": [20515, 20259]
+}, {
+  "engines": [5637, 19205],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [20227, 20483]
+}, {
+  "engines": [14165],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [18757],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [26691]
+}, {
+  "engines": [2949, 3205, 2437],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [4739, 4995]
+}, {
+  "engines": [4357, 14597, 4613],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [14661, 22597],
+  "type": "lightTank",
+  "tier": 5,
+  "turrets": [18755]
+}, {
+  "engines": [1125, 1381],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [1635, 1379]
+}, {
+  "engines": [21781, 25365, 25621],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [20053],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [27987]
+}, {
+  "engines": [10261],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [17171]
+}, {
+  "engines": [14373],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [22051]
+}, {
+  "engines": [2165, 2677, 2421],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [1651, 1907]
+}, {
+  "engines": [28677],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [38147]
+}, {
+  "engines": [14917],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [19011]
+}, {
+  "engines": [3717, 3461],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [25093, 24837],
+  "type": "SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [15365, 15109],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [21251, 20995]
+}, {
+  "engines": [17733, 18245],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [24387]
+}, {
+  "engines": [2181, 1925],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [2691, 2435]
+}, {
+  "engines": [15637],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [25107]
+}, {
+  "engines": [10053, 10309],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [7269, 7013],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [7779]
+}, {
+  "engines": [53],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [10547]
+}, {
+  "engines": [11013],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [39427]
+}, {
+  "engines": [2389, 2645],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [2899, 2643]
+}, {
+  "engines": [24085, 21013, 12821],
+  "type": "heavyTank",
+  "tier": 4,
+  "turrets": [28179, 27923]
+}, {
+  "engines": [16677, 3621, 16933],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [24611]
+}, {
+  "engines": [28677],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [41987]
+}, {
+  "engines": [1349],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [1091]
+}, {
+  "engines": [1157],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [31765],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [43795]
+}, {
+  "engines": [21317],
+  "type": "lightTank",
+  "tier": 10,
+  "turrets": [30531]
+}, {
+  "engines": [65301],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [30227]
+}, {
+  "engines": [309],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [307]
+}, {
+  "engines": [24581, 24325, 2565],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [28677],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [43267]
+}, {
+  "engines": [3141, 3397],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [2627, 2883]
+}, {
+  "engines": [32277],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [45075]
+}, {
+  "engines": [7509, 7253],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [6739, 6483]
+}, {
+  "engines": [23829, 23573],
+  "type": "SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [8229],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [35]
+}, {
+  "engines": [19029],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [23123]
+}, {
+  "engines": [34309],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [48131]
+}, {
+  "engines": [25381, 12325],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [28707, 28451]
+}, {
+  "engines": [1877, 3669],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [2131, 2387]
+}, {
+  "engines": [1541, 2565, 517],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [22531, 22787]
+}, {
+  "engines": [4677, 4421],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [4163, 3907]
+}, {
+  "engines": [4373],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [4883]
+}, {
+  "engines": [6917, 7173],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [29187, 28931]
+}, {
+  "engines": [3413, 12117, 9045],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [8787, 8531]
+}, {
+  "engines": [23813, 23557],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [29699, 29443]
+}, {
+  "engines": [6677, 25877],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [28933],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [36867]
+}, {
+  "engines": [3637, 3381],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [3635, 3891]
+}, {
+  "engines": [34069],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [46611]
+}, {
+  "engines": [11589],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [5443]
+}, {
+  "engines": [2069, 1813],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [1555, 1299]
+}, {
+  "engines": [9813, 11861, 10325, 10069],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [10579, 10835]
+}, {
+  "engines": [3109, 3621, 3365],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [2083, 2339]
+}, {
+  "engines": [533, 277],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [35091, 35347]
+}, {
+  "engines": [517, 2565, 1029],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [18947, 19203]
+}, {
+  "engines": [14085],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [45571]
+}, {
+  "engines": [6693, 293],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [3893, 4149],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [4915, 5171]
+}, {
+  "engines": [773, 10245],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [771, 1027]
+}, {
+  "engines": [10517, 2581, 2837, 2325],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [3157, 12117, 3413],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [12883, 13139]
+}, {
+  "engines": [11589],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [24899]
+}, {
+  "engines": [27413, 27157],
+  "type": "lightTank",
+  "tier": 9,
+  "turrets": [38163]
+}, {
+  "engines": [6437, 6181],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [5221],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [7011]
+}, {
+  "engines": [17957, 17701],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [40739]
+}, {
+  "engines": [19541],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [26963]
+}, {
+  "engines": [1541, 2309, 517],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [1795, 2051]
+}, {
+  "engines": [19525, 20293],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [27715]
+}, {
+  "engines": [4117, 4629],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [10837, 11093],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [14419, 14163]
+}, {
+  "engines": [7269, 7013],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [8803]
+}, {
+  "engines": [6693, 293],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [65045],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": [34323]
+}, {
+  "engines": [7941],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [11523]
+}, {
+  "engines": [5685],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [9523]
+}, {
+  "engines": [2933, 3189],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [2163, 2419]
+}, {
+  "engines": [3077, 261, 20485],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [4355, 4611]
+}, {
+  "engines": [31749],
+  "type": "lightTank",
+  "tier": 10,
+  "turrets": [45315]
+}, {
+  "engines": [2181, 2437],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [3459, 3203]
+}, {
+  "engines": [4901, 805],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [10019, 9763]
+}, {
+  "engines": [33541, 1797],
+  "type": "lightTank",
+  "tier": 5,
+  "turrets": [17155]
+}, {
+  "engines": [9989],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [13315]
+}, {
+  "engines": [4949, 5205],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [261, 3077],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [1349, 1605],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [277, 533, 21],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [7699, 7955]
+}, {
+  "engines": [15141],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [27939]
+}, {
+  "engines": [15445, 15189],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [20005, 293],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [32005, 32261],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [46083]
+}, {
+  "engines": [12805],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [16387]
+}, {
+  "engines": [12085, 11829],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [5381, 4869],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [7683, 7939]
+}, {
+  "engines": [10277],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [31523]
+}, {
+  "engines": [5973, 15957, 6229],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [3109, 3365, 9253],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": [13347, 13603]
+}, {
+  "engines": [13349],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [20771]
+}, {
+  "engines": [12341],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [6421],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [11539]
+}, {
+  "engines": [9813, 11861, 10325, 10069],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [9509, 9765],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [5157, 11301, 5669],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [25635]
+}, {
+  "engines": [3077, 4357, 20485],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [10755, 11011]
+}, {
+  "engines": [4677, 6213, 4421],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [19477, 19733],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [3413, 12117],
+  "type": "SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [14853],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [20739]
+}, {
+  "engines": [4133, 5157],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [7813, 8069],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [25349],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [31747]
+}, {
+  "engines": [2581, 5397, 6165],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [5651, 5395]
+}, {
+  "engines": [5125, 5381, 4869],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [11589],
+  "type": "SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [10005, 9749],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [24357],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [39459]
+}, {
+  "engines": [12373, 12117, 3413],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": [24659]
+}, {
+  "engines": [3365, 3621, 19749],
+  "type": "SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [4901, 805],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": [18211, 18467]
+}, {
+  "engines": [11317, 9525],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [901, 645],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [1155, 899]
+}, {
+  "engines": [3125],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [1843]
+}, {
+  "engines": [9221],
+  "type": "SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [24597, 35605],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [19219, 19475]
+}, {
+  "engines": [18693],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [32515]
+}, {
+  "engines": [3157, 3413],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": [25427, 25683]
+}, {
+  "engines": [8725],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [15379]
+}, {
+  "engines": [9509, 9765],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": [20003]
+}, {
+  "engines": [25605],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [15381],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [24851]
+}, {
+  "engines": [14917],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [27459]
+}, {
+  "engines": [2181, 2693],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [3971, 4227]
+}, {
+  "engines": [3157, 3413],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [12115, 11859]
+}, {
+  "engines": [23621],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [12821, 26133],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [25861],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [32259]
+}, {
+  "engines": [4453, 4197],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [6243, 6499]
+}, {
+  "engines": [27909],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [16453],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [22851]
+}, {
+  "engines": [7045],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [6531]
+}, {
+  "engines": [3445, 3189],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [2931, 2675]
+}, {
+  "engines": [28181],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [39443]
+}, {
+  "engines": [12869, 13125],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [24131, 23875]
+}, {
+  "engines": [1845, 1077, 1589],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [1331, 1075]
+}, {
+  "engines": [11285],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [13093],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": [22563]
+}, {
+  "engines": [10117],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [7555]
+}, {
+  "engines": [14885],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [22819]
+}, {
+  "engines": [7237, 6981],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [10051, 9795]
+}, {
+  "engines": [10117],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [7299]
+}, {
+  "engines": [16933, 16677],
+  "type": "SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [4485, 4229],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [29717],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [3397, 10821],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [25667, 25923]
+}, {
+  "engines": [6965],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [10035]
+}, {
+  "engines": [4165],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [54277],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [40195]
+}, {
+  "engines": [8325, 8581],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [15893],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [43539]
+}, {
+  "engines": [8773],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [29763]
+}, {
+  "engines": [19477, 18197, 19733],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [29971, 29715]
+}, {
+  "engines": [2661],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [5475]
+}, {
+  "engines": [53],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [51]
+}, {
+  "engines": [2133, 1109],
+  "type": "mediumTank",
+  "tier": 2,
+  "turrets": [1619, 1875]
+}, {
+  "engines": [15877, 16133],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [22275, 22019]
+}, {
+  "engines": [2629, 10821],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [2115]
+}, {
+  "engines": [20741],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [26115]
+}, {
+  "engines": [6917, 7173],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [23061, 23317],
+  "type": "SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [32773, 26629],
+  "type": "lightTank",
+  "tier": 9,
+  "turrets": [35075]
+}, {
+  "engines": [7781],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [7523]
+}, {
+  "engines": [15381],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [21267]
+}, {
+  "engines": [14165],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [26707]
+}, {
+  "engines": [17493],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [22355]
+}, {
+  "engines": [341, 9045],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [5461, 4693, 8277],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [8019, 8275]
+}, {
+  "engines": [6677, 25877],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [2853, 7461],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [1571, 1827]
+}, {
+  "engines": [7269, 7013],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [8547]
+}, {
+  "engines": [1541, 8965, 517],
+  "type": "SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [34053],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [47363]
+}, {
+  "engines": [2565, 773],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [5123, 4867]
+}, {
+  "engines": [5701, 5957],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [277, 533, 21],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [20501, 20245],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [787, 1043]
+}, {
+  "engines": [7509, 7253],
+  "type": "heavyTank",
+  "tier": 6,
+  "turrets": [10067, 10323]
+}, {
+  "engines": [21, 277],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [34579, 34835]
+}, {
+  "engines": [4389, 4645],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [3875, 3619]
+}, {
+  "engines": [5989, 5733],
+  "type": "mediumTank",
+  "tier": 2,
+  "turrets": [9571, 9827]
+}, {
+  "engines": [4133, 3877],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [3363, 3107]
+}, {
+  "engines": [549, 293],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [261, 5],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [16469],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [5941, 1077, 2101],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [5939, 6195]
+}, {
+  "engines": [277, 533, 21],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [8741],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [4899]
+}, {
+  "engines": [12373, 12117, 3413],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [12627, 12371]
+}, {
+  "engines": [533, 277],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [37651, 37395]
+}, {
+  "engines": [10053, 10309],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [6453],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [6963]
+}, {
+  "engines": [7269, 7013],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [9315]
+}, {
+  "engines": [8725],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [10259]
+}, {
+  "engines": [18261],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [24403]
+}, {
+  "engines": [597],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [595]
+}, {
+  "engines": [12821, 24853, 25109],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [4115, 4371]
+}, {
+  "engines": [10789],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [15651]
+}, {
+  "engines": [32533],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [7973, 5669, 37],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [7459, 7203]
+}, {
+  "engines": [2149, 1893],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [2915, 3171]
+}, {
+  "engines": [7429],
+  "type": "heavyTank",
+  "tier": 5,
+  "turrets": [11267]
+}, {
+  "engines": [1845, 1077, 5429],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [9011, 8755]
+}, {
+  "engines": [33557, 33813],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [46867]
+}, {
+  "engines": [1877, 3669],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [3667, 3923]
+}, {
+  "engines": [261, 1029],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [24067, 23811]
+}, {
+  "engines": [2565, 773],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [22085, 22341],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [9539]
+}, {
+  "engines": [19477, 19733],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [3701, 3957],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [3443, 3187]
+}, {
+  "engines": [8709, 7173],
+  "type": "lightTank",
+  "tier": 4,
+  "turrets": [30211]
+}, {
+  "engines": [15909],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [24099]
+}, {
+  "engines": [5973, 14421],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [15955, 15699]
+}, {
+  "engines": [10581],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [11091]
+}, {
+  "engines": [34837, 35093],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [48147, 47891]
+}, {
+  "engines": [6949, 6181],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [8995, 8739]
+}, {
+  "engines": [4997, 5253],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [11013],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [13059]
+}, {
+  "engines": [5685],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [12595]
+}, {
+  "engines": [3845],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [6147]
+}, {
+  "engines": [15685, 15429],
+  "type": "SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [22293, 22037],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [5973, 14421],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [4133, 5157],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [11555, 11299]
+}, {
+  "engines": [12549],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [16131]
+}, {
+  "engines": [11573, 10293],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [10773],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [17683]
+}, {
+  "engines": [13333, 21781],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [15909],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [29731]
+}, {
+  "engines": [7509, 7253],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [3109, 9253, 19749, 3365],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": [12835, 12579]
+}, {
+  "engines": [13829],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [12853, 12597],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [3877, 3621, 3365],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [2595, 2851]
+}, {
+  "engines": [22805],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [3093, 3349],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [21541],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [34595]
+}, {
+  "engines": [1365, 1109],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [3365, 3621, 19749],
+  "type": "SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [21509],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [4357, 14597, 4613],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [7171, 7427]
+}, {
+  "engines": [7237, 6981, 6725],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [6467, 6723]
+}, {
+  "engines": [6917, 7173],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [7701, 7957, 8213],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [23589],
+  "type": "lightTank",
+  "tier": 8,
+  "turrets": [38179]
+}, {
+  "engines": [17237, 16981],
+  "type": "SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [5157, 4133, 8997],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [16163, 15907]
+}, {
+  "engines": [4613, 11269],
+  "type": "AT-SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [1669, 1413, 645],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [1667, 1923]
+}, {
+  "engines": [6741, 6485],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [5715, 5459]
+}, {
+  "engines": [19461],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [15893],
+  "type": "mediumTank",
+  "tier": 7,
+  "turrets": [25363]
+}, {
+  "engines": [7237, 6981],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [16661, 3093, 3349],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [20501, 20245],
+  "type": "SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [24357],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [39203]
+}, {
+  "engines": [4949, 5461, 4693, 8277],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [24147, 23891]
+}, {
+  "engines": [3877, 3621, 3365],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [17955, 17699]
+}, {
+  "engines": [16165, 20261],
+  "type": "SPG",
+  "tier": 9,
+  "turrets": []
+}, {
+  "engines": [15125],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [9269, 9013],
+  "type": "AT-SPG",
+  "tier": 2,
+  "turrets": []
+}, {
+  "engines": [17173],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [28947]
+}, {
+  "engines": [27925],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [39187]
+}, {
+  "engines": [12853, 12597],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [20501, 24341],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [18707, 18963]
+}, {
+  "engines": [12373],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": [25171]
+}, {
+  "engines": [4133, 5157],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": [19747, 19491]
+}, {
+  "engines": [7493, 4933],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [8771]
+}, {
+  "engines": [27397],
+  "type": "heavyTank",
+  "tier": 10,
+  "turrets": [36355]
+}, {
+  "engines": [21061],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [30275]
+}, {
+  "engines": [22549],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [36115]
+}, {
+  "engines": [9813, 11861, 10325, 10069],
+  "type": "AT-SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [7701, 7957, 12053],
+  "type": "heavyTank",
+  "tier": 7,
+  "turrets": [21011, 20755]
+}, {
+  "engines": [17957, 17701],
+  "type": "lightTank",
+  "tier": 7,
+  "turrets": [25891]
+}, {
+  "engines": [3173, 2917],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [3427, 3683]
+}, {
+  "engines": [28165],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [37635]
+}, {
+  "engines": [16709],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [23107]
+}, {
+  "engines": [15381],
+  "type": "AT-SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [24869],
+  "type": "lightTank",
+  "tier": 10,
+  "turrets": [39971]
+}, {
+  "engines": [8517, 8261],
+  "type": "SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [4469, 4725, 4213],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [3955, 3699]
+}, {
+  "engines": [21525, 21013, 21269],
+  "type": "AT-SPG",
+  "tier": 6,
+  "turrets": []
+}, {
+  "engines": [12373],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [8501],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [9861],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [5765, 5509],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [29189],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [38915]
+}, {
+  "engines": [23109],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [1413, 645],
+  "type": "AT-SPG",
+  "tier": 4,
+  "turrets": []
+}, {
+  "engines": [29461],
+  "type": "AT-SPG",
+  "tier": 7,
+  "turrets": []
+}, {
+  "engines": [17221, 17477],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [25155, 25411]
+}, {
+  "engines": [4117, 4629],
+  "type": "lightTank",
+  "tier": 2,
+  "turrets": [26899, 27155]
+}, {
+  "engines": [16165],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [23843]
+}, {
+  "engines": [29445],
+  "type": "mediumTank",
+  "tier": 4,
+  "turrets": [39939]
+}, {
+  "engines": [9349, 9093],
+  "type": "AT-SPG",
+  "tier": 8,
+  "turrets": []
+}, {
+  "engines": [31509],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [42259]
+}, {
+  "engines": [4677, 6213, 20805],
+  "type": "heavyTank",
+  "tier": 9,
+  "turrets": [29251, 29507]
+}, {
+  "engines": [101],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [99]
+}, {
+  "engines": [18965, 17685],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [29459]
+}, {
+  "engines": [3941, 4197],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [4963, 5219]
+}, {
+  "engines": [11029],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [17939]
+}, {
+  "engines": [25637, 26149],
+  "type": "lightTank",
+  "tier": 6,
+  "turrets": [25379]
+}, {
+  "engines": [2117, 1093, 2373],
+  "type": "heavyTank",
+  "tier": 4,
+  "turrets": [1603, 1859]
+}, {
+  "engines": [32277],
+  "type": "mediumTank",
+  "tier": 8,
+  "turrets": [44307]
+}, {
+  "engines": [23365],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [15381],
+  "type": "mediumTank",
+  "tier": 5,
+  "turrets": [39955]
+}, {
+  "engines": [17685, 17941],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [30995, 31251]
+}, {
+  "engines": [4709],
+  "type": "mediumTank",
+  "tier": 10,
+  "turrets": [6755]
+}, {
+  "engines": [6501, 6245],
+  "type": "heavyTank",
+  "tier": 3,
+  "turrets": [8291]
+}, {
+  "engines": [565],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [819]
+}, {
+  "engines": [1541, 5, 517],
+  "type": "lightTank",
+  "tier": 3,
+  "turrets": [1539, 1283]
+}, {
+  "engines": [36629],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [50195]
+}, {
+  "engines": [3909],
+  "type": "SPG",
+  "tier": 5,
+  "turrets": []
+}, {
+  "engines": [20565],
+  "type": "heavyTank",
+  "tier": 8,
+  "turrets": [29267]
+}, {
+  "engines": [5461, 8277],
+  "type": "SPG",
+  "tier": 3,
+  "turrets": []
+}, {
+  "engines": [19477, 18197, 19733],
+  "type": "mediumTank",
+  "tier": 6,
+  "turrets": [32787, 32531]
+}, {
+  "engines": [1829],
+  "type": "lightTank",
+  "tier": 1,
+  "turrets": [1059]
+}, {
+  "engines": [13093],
+  "type": "AT-SPG",
+  "tier": 10,
+  "turrets": []
+}, {
+  "engines": [11013],
+  "type": "mediumTank",
+  "tier": 3,
+  "turrets": [47619]
+}, {
+  "engines": [2357, 1077, 2101],
+  "type": "mediumTank",
+  "tier": 9,
+  "turrets": [2867, 2611]
+}]

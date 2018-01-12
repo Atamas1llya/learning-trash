@@ -2,7 +2,7 @@ import json
 import os.path
 from sklearn.model_selection import train_test_split
 
-cache_folder = 'train_data'
+cache_folder = '__train_split__'
 
 if not os.path.exists(cache_folder):
     os.makedirs(cache_folder)

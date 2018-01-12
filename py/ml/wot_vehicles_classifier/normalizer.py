@@ -1,5 +1,6 @@
 # normalize data 0-1
 
+
 def normalize(data):
     normalized = []
 

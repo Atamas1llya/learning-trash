@@ -6,7 +6,7 @@ def euc(a, b):
     return distance.euclidean(a, b)
 
 
-class KNeighborsClassifierExp:
+class KNeighborsClassifier:
     def __init__(self, k):
         self.k = k
 

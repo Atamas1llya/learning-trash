@@ -8,7 +8,7 @@ cache_folder = '__processor_cache__'
 
 if not os.path.exists(cache_folder):
     os.makedirs(cache_folder)
-    
+
 
 def find_avg_dmg(ammo):
     return sum([item['damage'][1] for item in ammo]) / len(ammo)
@@ -56,7 +56,7 @@ def process(data):
     processed = { "x": [], "y": [] }
 
     for i, vehicle in enumerate(data):
-        print(f'{i} / {len(data)}')
+        # print(f'{i} / {len(data)}')
 
         tmm = request_tmm(**vehicle)
 

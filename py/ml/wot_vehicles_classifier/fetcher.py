@@ -3,19 +3,20 @@ import json
 import os
 
 cache_folder = '__fetcher_cache__'
-cache_url = f'{cache_folder}/cache.json'
 
 if not os.path.exists(cache_folder):
     os.makedirs(cache_folder)
 
 
 def fetchVehicles():
+    query = '&tier=8,9,10'
+    cache_url = f'{cache_folder}/{query}.json'
     if os.path.isfile(cache_url):
         return json.load(open(cache_url))
 
     else:
         wot_res = urllib.request.urlopen(
-            'https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674'
+            f'https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674{query}'
         ).read().decode('utf-8')
         wot_data_raw = json.loads(wot_res)['data']
 

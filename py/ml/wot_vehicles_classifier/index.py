@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 
-wot_dataset = json.load(open('./datasets/wot.json'))
+wot_dataset = json.load(open('./datasets/wot_v2.json'))
 
 data_x = wot_dataset['X']
 data_y = wot_dataset['Y']

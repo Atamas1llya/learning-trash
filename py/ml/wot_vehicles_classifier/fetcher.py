@@ -2,7 +2,7 @@
 import urllib.request
 import json
 
-wot_res = urllib.request.urlopen('https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674&limit=1')
+wot_res = urllib.request.urlopen('https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674')
 wot_data_json = wot_res.read().decode('utf-8')
 wot_data_raw = json.loads(wot_data_json)['data']
 
@@ -19,5 +19,5 @@ for index, item in enumerate(wot_data_raw):
                 wot_data[index][key] = wot_data_raw[item][key]
 
 
-file = open('./datasets/wot_raw.json', 'w')
+file = open('./datasets/wot_raw_v2.json', 'w')
 file.write(json.dumps(wot_data, indent=2, sort_keys=True))

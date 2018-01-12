@@ -4,10 +4,10 @@ import json
 
 APP_ID = '8ca40e4d4a53687d8e5fae2b3f772674'
 
-raw_data = json.load(open('./datasets/wot_raw.json', 'r'))
+raw_data = json.load(open('./datasets/wot_raw_v2.json', 'r'))
 
 # model:
-# X: [spec_power, damage_per_shot, avg_armor, view_range]
+# X: [spec_power, damage_per_shot, avg_armor, view_range, reload_time, traverse_speed]
 # Y: [type]
 
 data_x = []
@@ -34,8 +34,10 @@ def request_tmm(tank_id, engines, guns, suspensions, radios, turrets, **keys):
 
         tank_x.append(int(tank_tmm['engine']['power'] / tank_tmm['weight'] * 1000))
         tank_x.append(tank_tmm['ammo'][0]['damage'][1])
-        tank_x.append(int(((tank_tmm['armor']['hull']['front'] + tank_tmm['armor']['hull']['sides']) / 2)))
+        tank_x.append(int(((tank_tmm['armor']['hull']['front'] + tank_tmm['armor']['hull']['sides']))))
         tank_x.append(tank_tmm['turret']['view_range'])
+        tank_x.append(tank_tmm['gun']['reload_time'])
+        tank_x.append(tank_tmm['suspension']['traverse_speed'])
 
         return tank_x, keys['type']
     else:
@@ -53,5 +55,5 @@ data_obj = {
     "Y": data_y
 }
 
-file = open('./datasets/wot.json', 'w')
+file = open('./datasets/wot_v2.json', 'w')
 file.write(json.dumps(data_obj, indent=2))

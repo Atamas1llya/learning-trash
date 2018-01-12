@@ -16,6 +16,7 @@ lib-cov
 
 __pycache__
 __tmcache__
+__train_split__
 .DS_Store
 
 # Coverage directory used by tools like istanbul

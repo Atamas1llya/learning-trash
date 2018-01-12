@@ -15,6 +15,7 @@ pids
 lib-cov
 
 __pycache__
+__tmcache__
 .DS_Store
 
 # Coverage directory used by tools like istanbul

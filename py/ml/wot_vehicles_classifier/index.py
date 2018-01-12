@@ -1,14 +1,17 @@
-import json
-from knn import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-train_x = json.load(open('./__train_split__/train_x.json'))
-train_y = json.load(open('./__train_split__/train_y.json'))
-test_x = json.load(open('./__train_split__/test_x.json'))
-test_y = json.load(open('./__train_split__/test_y.json'))
+import fetcher
+import processor
+from knn import KNeighborsClassifier
+
+raw_data = fetcher.fetchVehicles()
+processed_data = processor.process(raw_data)
+
+train_x, test_x, train_y, test_y = train_test_split(processed_data["x"], processed_data["y"], test_size=0.5)
 
 classifier = KNeighborsClassifier(1)
-classifier.train(train_x, train_y)
+classifier.fit(train_x, train_y)
 predictions = classifier.predict(test_x)
 
 print(accuracy_score(test_y, predictions))

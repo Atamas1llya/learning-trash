@@ -10,7 +10,7 @@ class KNeighborsClassifier:
     def __init__(self, k):
         self.k = k
 
-    def train(self, train_x, train_y):
+    def fit(self, train_x, train_y):
         self.train_x = train_x
         self.train_y = train_y
 

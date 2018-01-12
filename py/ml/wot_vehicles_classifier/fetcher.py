@@ -1,10 +1,23 @@
 import urllib.request
 import json
+import os
+
+cache_folder = '__fetcher_cache__'
+cache_url = f'{cache_folder}/cache.json'
+
+if not os.path.exists(cache_folder):
+    os.makedirs(cache_folder)
 
 def fetchVehicles():
-    wot_res = urllib.request.urlopen('https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674')
-    wot_data_json = wot_res.read().decode('utf-8')
-    wot_data_raw = json.loads(wot_data_json)['data']
+    if os.path.isfile(cache_url):
+        file = open(cache_url, 'r')
+        wot_data = json.load(open(cache_url))
+        return wot_data
+        
+    else:
+        wot_res = urllib.request.urlopen('https://api.worldoftanks.ru/wot/encyclopedia/vehicles/?application_id=8ca40e4d4a53687d8e5fae2b3f772674')
+        wot_data_json = wot_res.read().decode('utf-8')
+        wot_data_raw = json.loads(wot_data_json)['data']
 
     required_keys = ['type', 'tier', 'engines', 'turrets', 'suspensions', 'guns', 'radios', 'tank_id']
     wot_data = []
@@ -17,5 +30,9 @@ def fetchVehicles():
                     wot_data[index][key] = wot_data_raw[item][key][-1]
                 else:
                     wot_data[index][key] = wot_data_raw[item][key]
+
+
+    file = open(cache_url, "w")
+    file.write(json.dumps(wot_data))
 
     return wot_data

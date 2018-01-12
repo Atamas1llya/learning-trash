@@ -1,15 +1,11 @@
 import json
 from knn import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
 
-
-wot_dataset = json.load(open('./datasets/wot_v2.json'))
-
-data_x = wot_dataset['X']
-data_y = wot_dataset['Y']
-
-train_x, test_x, train_y, test_y = train_test_split(data_x, data_y, test_size=0.5)
+train_x = json.load(open('./train_data/train_x.json'))
+train_y = json.load(open('./train_data/train_y.json'))
+test_x = json.load(open('./train_data/test_x.json'))
+test_y = json.load(open('./train_data/test_y.json'))
 
 classifier = KNeighborsClassifier(1)
 classifier.train(train_x, train_y)

@@ -1,2706 +1,5412 @@
-[{
-  "engines": [261, 5],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [259, 3]
-}, {
-  "engines": [4677, 6213, 4421],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [4931]
-}, {
-  "engines": [2309, 1541],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [2307, 2563]
-}, {
-  "engines": [24069],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [29955]
-}, {
-  "engines": [12565],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [25893, 25125],
-  "type": "lightTank",
-  "tier": 9,
-  "turrets": [31779, 32035]
-}, {
-  "engines": [22821, 22565],
-  "type": "SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [30997],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [15701],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [18771]
-}, {
-  "engines": [19477, 19733],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [2067, 2323]
-}, {
-  "engines": [2357, 1077, 2101],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [3379, 3123]
-}, {
-  "engines": [6709, 7989],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [6707, 6451]
-}, {
-  "engines": [581, 325],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [2149, 2917],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [2403, 2659]
-}, {
-  "engines": [4373, 4629],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [24853, 1045],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [3859, 3603]
-}, {
-  "engines": [10533],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [15395]
-}, {
-  "engines": [12629, 7253],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [13907, 13651]
-}, {
-  "engines": [8469],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [13331]
-}, {
-  "engines": [4949, 15957],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": [26195, 25939]
-}, {
-  "engines": [30741, 30485],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [41747, 41491]
-}, {
-  "engines": [3365, 3621, 19749],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [30469],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [43779]
-}, {
-  "engines": [1637, 1893, 2149],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [3939, 4195]
-}, {
-  "engines": [7189],
-  "type": "heavyTank",
-  "tier": 4,
-  "turrets": [12051]
-}, {
-  "engines": [8773],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [9283]
-}, {
-  "engines": [36373],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [48659]
-}, {
-  "engines": [15397],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [23587]
-}, {
-  "engines": [5973, 14421],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [14931, 15187]
-}, {
-  "engines": [4981, 5237],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [4467, 4211]
-}, {
-  "engines": [30997],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [34325],
-  "type": "lightTank",
-  "tier": 10,
-  "turrets": [47379]
-}, {
-  "engines": [6693, 293],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [7989, 1333],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [5683, 5427]
-}, {
-  "engines": [8245],
-  "type": "lightTank",
-  "tier": 10,
-  "turrets": [11827]
-}, {
-  "engines": [6789],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [643]
-}, {
-  "engines": [3333, 2821],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [5379, 5635]
-}, {
-  "engines": [15429, 15173],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [277, 533, 21],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [7187, 6931]
-}, {
-  "engines": [3157, 15957, 341],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [149],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [147]
-}, {
-  "engines": [6949, 8485],
-  "type": "mediumTank",
-  "tier": 2,
-  "turrets": [11043, 10787]
-}, {
-  "engines": [10757],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [14083]
-}, {
-  "engines": [9781, 10037],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [24837, 517],
-  "type": "SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [9285, 14405],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [5493],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [4723]
-}, {
-  "engines": [35861, 36117],
-  "type": "lightTank",
-  "tier": 5,
-  "turrets": [8723]
-}, {
-  "engines": [5973, 14421, 6229],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [7429],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [19459]
-}, {
-  "engines": [5381, 4869],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [11045],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [13091]
-}, {
-  "engines": [565],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [11315]
-}, {
-  "engines": [277, 533, 789],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [10771, 11027]
-}, {
-  "engines": [10533],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [14677, 16725],
-  "type": "SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [6437, 6181],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [5973, 6229],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [5203, 4947]
-}, {
-  "engines": [5893],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [10243]
-}, {
-  "engines": [7701, 7957, 8213],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [13075, 12819]
-}, {
-  "engines": [23589],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [37923]
-}, {
-  "engines": [3413, 12117],
-  "type": "SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [9509, 9765],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [26373, 33285],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [31235]
-}, {
-  "engines": [34565],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [12035]
-}, {
-  "engines": [27669],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [38931]
-}, {
-  "engines": [19477, 19733],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [16403, 16147]
-}, {
-  "engines": [24613],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [38947]
-}, {
-  "engines": [25621, 26389],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [32021],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [44051]
-}, {
-  "engines": [26661, 26405],
-  "type": "lightTank",
-  "tier": 5,
-  "turrets": [17187, 17443]
-}, {
-  "engines": [2341],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [1315]
-}, {
-  "engines": [5637, 10245],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [6453],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [10803]
-}, {
-  "engines": [11285],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [18451]
-}, {
-  "engines": [10277],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [40227]
-}, {
-  "engines": [4405, 4917, 4661],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [7475, 7219]
-}, {
-  "engines": [21525, 21013, 21269],
-  "type": "SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [13093],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [19235]
-}, {
-  "engines": [13061],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [36099]
-}, {
-  "engines": [837, 1093],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [579, 323]
-}, {
-  "engines": [14085],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [19971]
-}, {
-  "engines": [7701, 7957, 8213],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [20499, 20243]
-}, {
-  "engines": [3157, 3413],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": [26451]
-}, {
-  "engines": [12117, 12373, 9045, 3413],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [9811, 9555]
-}, {
-  "engines": [27909],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [37379]
-}, {
-  "engines": [16453],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [26179]
-}, {
-  "engines": [6533, 6277],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [5507]
-}, {
-  "engines": [1125, 1381],
-  "type": "mediumTank",
-  "tier": 2,
-  "turrets": [611]
-}, {
-  "engines": [3077, 261, 20485],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [15941, 16197],
-  "type": "SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [19477, 19733],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [12373],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [28755]
-}, {
-  "engines": [1141, 885],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [627, 883]
-}, {
-  "engines": [25605],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [38403]
-}, {
-  "engines": [133],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [131]
-}, {
-  "engines": [15621, 1029, 2565],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [21763, 21507]
-}, {
-  "engines": [1109],
-  "type": "mediumTank",
-  "tier": 1,
-  "turrets": [1107]
-}, {
-  "engines": [22853, 11077],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [7747]
-}, {
-  "engines": [16661, 5141],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [26643, 26387]
-}, {
-  "engines": [18693, 26117],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [34307, 34051]
-}, {
-  "engines": [373],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [115]
-}, {
-  "engines": [53],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [9267]
-}, {
-  "engines": [29701],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [39683]
-}, {
-  "engines": [261, 1029],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [23299, 23555]
-}, {
-  "engines": [3429, 3685],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [1891, 2147]
-}, {
-  "engines": [4677, 6213, 20805],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [28739, 28995]
-}, {
-  "engines": [773, 10245],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [12821, 17429, 16917],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [28691, 28435]
-}, {
-  "engines": [2405, 2661, 1381],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [4707, 4451]
-}, {
-  "engines": [17189],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [24867]
-}, {
-  "engines": [29957],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [1861, 1349],
-  "type": "SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [18437],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [25347, 25091]
-}, {
-  "engines": [21829, 21573],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [30787]
-}, {
-  "engines": [5477],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [7267]
-}, {
-  "engines": [19221],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [30739]
-}, {
-  "engines": [18981],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [26915]
-}, {
-  "engines": [29957],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [43523]
-}, {
-  "engines": [9221],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [3157, 7509],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [7251]
-}, {
-  "engines": [6229, 3413, 3157],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [3411, 3155]
-}, {
-  "engines": [3349, 5141],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": [32019]
-}, {
-  "engines": [293, 4901, 549],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [291, 547]
-}, {
-  "engines": [6501, 6757],
-  "type": "heavyTank",
-  "tier": 4,
-  "turrets": [8035]
-}, {
-  "engines": [34309],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [47875]
-}, {
-  "engines": [1845, 1077, 2101],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [2355, 2099]
-}, {
-  "engines": [261, 5],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [3587, 3843]
-}, {
-  "engines": [36629],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [49427]
-}, {
-  "engines": [5189, 4933],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [4419, 4675]
-}, {
-  "engines": [9477],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [12291]
-}, {
-  "engines": [5637, 10245],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [8707, 8963]
-}, {
-  "engines": [24837, 517],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [7269, 7013],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [9059]
-}, {
-  "engines": [5653],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [10515]
-}, {
-  "engines": [31493],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [46851]
-}, {
-  "engines": [25125, 25381],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [31011, 31267]
-}, {
-  "engines": [6469, 6213],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [5699]
-}, {
-  "engines": [5925, 5669],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": [5155]
-}, {
-  "engines": [277, 533, 21],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [10837, 11093],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [11603, 11347]
-}, {
-  "engines": [5173, 5429],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [7987, 7731]
-}, {
-  "engines": [31493],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [45059]
-}, {
-  "engines": [32789],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [45331]
-}, {
-  "engines": [11333, 11077],
-  "type": "lightTank",
-  "tier": 9,
-  "turrets": [7491]
-}, {
-  "engines": [581, 325],
-  "type": "SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [3093, 3605],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [3347, 3091]
-}, {
-  "engines": [20565],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [13395]
-}, {
-  "engines": [4965],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [5987]
-}, {
-  "engines": [28693, 29205],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [40211]
-}, {
-  "engines": [2853, 7461, 2597],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [6435, 6691]
-}, {
-  "engines": [13909],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [15443]
-}, {
-  "engines": [6933],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [11795]
-}, {
-  "engines": [597],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [28243]
-}, {
-  "engines": [613],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [1123]
-}, {
-  "engines": [26885, 33029],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [35331]
-}, {
-  "engines": [32277],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [47123]
-}, {
-  "engines": [7973, 5669, 37],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [8227, 7971]
-}, {
-  "engines": [1909, 1397, 1653],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [1395, 1139]
-}, {
-  "engines": [6709, 7733],
-  "type": "lightTank",
-  "tier": 9,
-  "turrets": [11571]
-}, {
-  "engines": [2565, 773],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [35843, 35587]
-}, {
-  "engines": [389],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [387]
-}, {
-  "engines": [19733, 19477, 4885],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [6419, 6675]
-}, {
-  "engines": [14677, 14933],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [26917, 27173],
-  "type": "lightTank",
-  "tier": 5,
-  "turrets": [10531]
-}, {
-  "engines": [10501],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [13827]
-}, {
-  "engines": [4101, 3589],
-  "type": "SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [7221],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [10291]
-}, {
-  "engines": [20501, 20245],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [8467, 8211]
-}, {
-  "engines": [16213],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": [17747]
-}, {
-  "engines": [629],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [371]
-}, {
-  "engines": [293, 3365, 20005],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [13829],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [10805, 10549],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [5125, 5381, 4869],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [5141, 6677, 3349],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [10003, 9747]
-}, {
-  "engines": [20773],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [23333],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [37411]
-}, {
-  "engines": [18181],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [773, 1285, 1029],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [9475, 9731]
-}, {
-  "engines": [7701, 7957, 7445],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [12563, 12307]
-}, {
-  "engines": [13349],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [37667]
-}, {
-  "engines": [5973, 6229],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [19493],
-  "type": "SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [7173, 8709, 6917],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [6469, 6213],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [31237],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [44803]
-}, {
-  "engines": [8981, 5397],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [15635, 15891]
-}, {
-  "engines": [9045],
-  "type": "SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [7301, 7557],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [6019]
-}, {
-  "engines": [11301, 11557],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [16931, 16675]
-}, {
-  "engines": [16661, 5141],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [27667, 27411]
-}, {
-  "engines": [25605],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [32003]
-}, {
-  "engines": [4613, 11269],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [14339, 14595]
-}, {
-  "engines": [4677, 6213, 4421],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [12837],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [5667]
-}, {
-  "engines": [20757],
-  "type": "SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [12837],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [39715]
-}, {
-  "engines": [18773, 10325],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [6197, 1333],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [8499, 8243]
-}, {
-  "engines": [3621, 12581],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": [18723, 18979]
-}, {
-  "engines": [1077, 2101],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [4403, 4659]
-}, {
-  "engines": [2565, 773],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [15875, 15619]
-}, {
-  "engines": [12869, 12613, 13125],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [17219, 17475]
-}, {
-  "engines": [4677, 6213, 4421],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [10307, 10563]
-}, {
-  "engines": [19989, 19733],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [19987, 19731]
-}, {
-  "engines": [3109, 3621, 3365],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": [20515, 20259]
-}, {
-  "engines": [5637, 19205],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [20227, 20483]
-}, {
-  "engines": [14165],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [18757],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [26691]
-}, {
-  "engines": [2949, 3205, 2437],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [4739, 4995]
-}, {
-  "engines": [4357, 14597, 4613],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [14661, 22597],
-  "type": "lightTank",
-  "tier": 5,
-  "turrets": [18755]
-}, {
-  "engines": [1125, 1381],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [1635, 1379]
-}, {
-  "engines": [21781, 25365, 25621],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [20053],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [27987]
-}, {
-  "engines": [10261],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [17171]
-}, {
-  "engines": [14373],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [22051]
-}, {
-  "engines": [2165, 2677, 2421],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [1651, 1907]
-}, {
-  "engines": [28677],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [38147]
-}, {
-  "engines": [14917],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [19011]
-}, {
-  "engines": [3717, 3461],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [25093, 24837],
-  "type": "SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [15365, 15109],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [21251, 20995]
-}, {
-  "engines": [17733, 18245],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [24387]
-}, {
-  "engines": [2181, 1925],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [2691, 2435]
-}, {
-  "engines": [15637],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [25107]
-}, {
-  "engines": [10053, 10309],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [7269, 7013],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [7779]
-}, {
-  "engines": [53],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [10547]
-}, {
-  "engines": [11013],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [39427]
-}, {
-  "engines": [2389, 2645],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [2899, 2643]
-}, {
-  "engines": [24085, 21013, 12821],
-  "type": "heavyTank",
-  "tier": 4,
-  "turrets": [28179, 27923]
-}, {
-  "engines": [16677, 3621, 16933],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [24611]
-}, {
-  "engines": [28677],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [41987]
-}, {
-  "engines": [1349],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [1091]
-}, {
-  "engines": [1157],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [31765],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [43795]
-}, {
-  "engines": [21317],
-  "type": "lightTank",
-  "tier": 10,
-  "turrets": [30531]
-}, {
-  "engines": [65301],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [30227]
-}, {
-  "engines": [309],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [307]
-}, {
-  "engines": [24581, 24325, 2565],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [28677],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [43267]
-}, {
-  "engines": [3141, 3397],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [2627, 2883]
-}, {
-  "engines": [32277],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [45075]
-}, {
-  "engines": [7509, 7253],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [6739, 6483]
-}, {
-  "engines": [23829, 23573],
-  "type": "SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [8229],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [35]
-}, {
-  "engines": [19029],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [23123]
-}, {
-  "engines": [34309],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [48131]
-}, {
-  "engines": [25381, 12325],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [28707, 28451]
-}, {
-  "engines": [1877, 3669],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [2131, 2387]
-}, {
-  "engines": [1541, 2565, 517],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [22531, 22787]
-}, {
-  "engines": [4677, 4421],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [4163, 3907]
-}, {
-  "engines": [4373],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [4883]
-}, {
-  "engines": [6917, 7173],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [29187, 28931]
-}, {
-  "engines": [3413, 12117, 9045],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [8787, 8531]
-}, {
-  "engines": [23813, 23557],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [29699, 29443]
-}, {
-  "engines": [6677, 25877],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [28933],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [36867]
-}, {
-  "engines": [3637, 3381],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [3635, 3891]
-}, {
-  "engines": [34069],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [46611]
-}, {
-  "engines": [11589],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [5443]
-}, {
-  "engines": [2069, 1813],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [1555, 1299]
-}, {
-  "engines": [9813, 11861, 10325, 10069],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [10579, 10835]
-}, {
-  "engines": [3109, 3621, 3365],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [2083, 2339]
-}, {
-  "engines": [533, 277],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [35091, 35347]
-}, {
-  "engines": [517, 2565, 1029],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [18947, 19203]
-}, {
-  "engines": [14085],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [45571]
-}, {
-  "engines": [6693, 293],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [3893, 4149],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [4915, 5171]
-}, {
-  "engines": [773, 10245],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [771, 1027]
-}, {
-  "engines": [10517, 2581, 2837, 2325],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [3157, 12117, 3413],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [12883, 13139]
-}, {
-  "engines": [11589],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [24899]
-}, {
-  "engines": [27413, 27157],
-  "type": "lightTank",
-  "tier": 9,
-  "turrets": [38163]
-}, {
-  "engines": [6437, 6181],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [5221],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [7011]
-}, {
-  "engines": [17957, 17701],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [40739]
-}, {
-  "engines": [19541],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [26963]
-}, {
-  "engines": [1541, 2309, 517],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [1795, 2051]
-}, {
-  "engines": [19525, 20293],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [27715]
-}, {
-  "engines": [4117, 4629],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [10837, 11093],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [14419, 14163]
-}, {
-  "engines": [7269, 7013],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [8803]
-}, {
-  "engines": [6693, 293],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [65045],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": [34323]
-}, {
-  "engines": [7941],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [11523]
-}, {
-  "engines": [5685],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [9523]
-}, {
-  "engines": [2933, 3189],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [2163, 2419]
-}, {
-  "engines": [3077, 261, 20485],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [4355, 4611]
-}, {
-  "engines": [31749],
-  "type": "lightTank",
-  "tier": 10,
-  "turrets": [45315]
-}, {
-  "engines": [2181, 2437],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [3459, 3203]
-}, {
-  "engines": [4901, 805],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [10019, 9763]
-}, {
-  "engines": [33541, 1797],
-  "type": "lightTank",
-  "tier": 5,
-  "turrets": [17155]
-}, {
-  "engines": [9989],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [13315]
-}, {
-  "engines": [4949, 5205],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [261, 3077],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [1349, 1605],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [277, 533, 21],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [7699, 7955]
-}, {
-  "engines": [15141],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [27939]
-}, {
-  "engines": [15445, 15189],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [20005, 293],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [32005, 32261],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [46083]
-}, {
-  "engines": [12805],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [16387]
-}, {
-  "engines": [12085, 11829],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [5381, 4869],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [7683, 7939]
-}, {
-  "engines": [10277],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [31523]
-}, {
-  "engines": [5973, 15957, 6229],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [3109, 3365, 9253],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": [13347, 13603]
-}, {
-  "engines": [13349],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [20771]
-}, {
-  "engines": [12341],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [6421],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [11539]
-}, {
-  "engines": [9813, 11861, 10325, 10069],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [9509, 9765],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [5157, 11301, 5669],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [25635]
-}, {
-  "engines": [3077, 4357, 20485],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [10755, 11011]
-}, {
-  "engines": [4677, 6213, 4421],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [19477, 19733],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [3413, 12117],
-  "type": "SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [14853],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [20739]
-}, {
-  "engines": [4133, 5157],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [7813, 8069],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [25349],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [31747]
-}, {
-  "engines": [2581, 5397, 6165],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [5651, 5395]
-}, {
-  "engines": [5125, 5381, 4869],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [11589],
-  "type": "SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [10005, 9749],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [24357],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [39459]
-}, {
-  "engines": [12373, 12117, 3413],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": [24659]
-}, {
-  "engines": [3365, 3621, 19749],
-  "type": "SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [4901, 805],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": [18211, 18467]
-}, {
-  "engines": [11317, 9525],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [901, 645],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [1155, 899]
-}, {
-  "engines": [3125],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [1843]
-}, {
-  "engines": [9221],
-  "type": "SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [24597, 35605],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [19219, 19475]
-}, {
-  "engines": [18693],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [32515]
-}, {
-  "engines": [3157, 3413],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": [25427, 25683]
-}, {
-  "engines": [8725],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [15379]
-}, {
-  "engines": [9509, 9765],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": [20003]
-}, {
-  "engines": [25605],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [15381],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [24851]
-}, {
-  "engines": [14917],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [27459]
-}, {
-  "engines": [2181, 2693],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [3971, 4227]
-}, {
-  "engines": [3157, 3413],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [12115, 11859]
-}, {
-  "engines": [23621],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [12821, 26133],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [25861],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [32259]
-}, {
-  "engines": [4453, 4197],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [6243, 6499]
-}, {
-  "engines": [27909],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [16453],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [22851]
-}, {
-  "engines": [7045],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [6531]
-}, {
-  "engines": [3445, 3189],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [2931, 2675]
-}, {
-  "engines": [28181],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [39443]
-}, {
-  "engines": [12869, 13125],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [24131, 23875]
-}, {
-  "engines": [1845, 1077, 1589],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [1331, 1075]
-}, {
-  "engines": [11285],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [13093],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": [22563]
-}, {
-  "engines": [10117],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [7555]
-}, {
-  "engines": [14885],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [22819]
-}, {
-  "engines": [7237, 6981],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [10051, 9795]
-}, {
-  "engines": [10117],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [7299]
-}, {
-  "engines": [16933, 16677],
-  "type": "SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [4485, 4229],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [29717],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [3397, 10821],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [25667, 25923]
-}, {
-  "engines": [6965],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [10035]
-}, {
-  "engines": [4165],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [54277],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [40195]
-}, {
-  "engines": [8325, 8581],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [15893],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [43539]
-}, {
-  "engines": [8773],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [29763]
-}, {
-  "engines": [19477, 18197, 19733],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [29971, 29715]
-}, {
-  "engines": [2661],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [5475]
-}, {
-  "engines": [53],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [51]
-}, {
-  "engines": [2133, 1109],
-  "type": "mediumTank",
-  "tier": 2,
-  "turrets": [1619, 1875]
-}, {
-  "engines": [15877, 16133],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [22275, 22019]
-}, {
-  "engines": [2629, 10821],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [2115]
-}, {
-  "engines": [20741],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [26115]
-}, {
-  "engines": [6917, 7173],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [23061, 23317],
-  "type": "SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [32773, 26629],
-  "type": "lightTank",
-  "tier": 9,
-  "turrets": [35075]
-}, {
-  "engines": [7781],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [7523]
-}, {
-  "engines": [15381],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [21267]
-}, {
-  "engines": [14165],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [26707]
-}, {
-  "engines": [17493],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [22355]
-}, {
-  "engines": [341, 9045],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [5461, 4693, 8277],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [8019, 8275]
-}, {
-  "engines": [6677, 25877],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [2853, 7461],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [1571, 1827]
-}, {
-  "engines": [7269, 7013],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [8547]
-}, {
-  "engines": [1541, 8965, 517],
-  "type": "SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [34053],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [47363]
-}, {
-  "engines": [2565, 773],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [5123, 4867]
-}, {
-  "engines": [5701, 5957],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [277, 533, 21],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [20501, 20245],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [787, 1043]
-}, {
-  "engines": [7509, 7253],
-  "type": "heavyTank",
-  "tier": 6,
-  "turrets": [10067, 10323]
-}, {
-  "engines": [21, 277],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [34579, 34835]
-}, {
-  "engines": [4389, 4645],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [3875, 3619]
-}, {
-  "engines": [5989, 5733],
-  "type": "mediumTank",
-  "tier": 2,
-  "turrets": [9571, 9827]
-}, {
-  "engines": [4133, 3877],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [3363, 3107]
-}, {
-  "engines": [549, 293],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [261, 5],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [16469],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [5941, 1077, 2101],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [5939, 6195]
-}, {
-  "engines": [277, 533, 21],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [8741],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [4899]
-}, {
-  "engines": [12373, 12117, 3413],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [12627, 12371]
-}, {
-  "engines": [533, 277],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [37651, 37395]
-}, {
-  "engines": [10053, 10309],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [6453],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [6963]
-}, {
-  "engines": [7269, 7013],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [9315]
-}, {
-  "engines": [8725],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [10259]
-}, {
-  "engines": [18261],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [24403]
-}, {
-  "engines": [597],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [595]
-}, {
-  "engines": [12821, 24853, 25109],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [4115, 4371]
-}, {
-  "engines": [10789],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [15651]
-}, {
-  "engines": [32533],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [7973, 5669, 37],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [7459, 7203]
-}, {
-  "engines": [2149, 1893],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [2915, 3171]
-}, {
-  "engines": [7429],
-  "type": "heavyTank",
-  "tier": 5,
-  "turrets": [11267]
-}, {
-  "engines": [1845, 1077, 5429],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [9011, 8755]
-}, {
-  "engines": [33557, 33813],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [46867]
-}, {
-  "engines": [1877, 3669],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [3667, 3923]
-}, {
-  "engines": [261, 1029],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [24067, 23811]
-}, {
-  "engines": [2565, 773],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [22085, 22341],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [9539]
-}, {
-  "engines": [19477, 19733],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [3701, 3957],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [3443, 3187]
-}, {
-  "engines": [8709, 7173],
-  "type": "lightTank",
-  "tier": 4,
-  "turrets": [30211]
-}, {
-  "engines": [15909],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [24099]
-}, {
-  "engines": [5973, 14421],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [15955, 15699]
-}, {
-  "engines": [10581],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [11091]
-}, {
-  "engines": [34837, 35093],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [48147, 47891]
-}, {
-  "engines": [6949, 6181],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [8995, 8739]
-}, {
-  "engines": [4997, 5253],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [11013],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [13059]
-}, {
-  "engines": [5685],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [12595]
-}, {
-  "engines": [3845],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [6147]
-}, {
-  "engines": [15685, 15429],
-  "type": "SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [22293, 22037],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [5973, 14421],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [4133, 5157],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [11555, 11299]
-}, {
-  "engines": [12549],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [16131]
-}, {
-  "engines": [11573, 10293],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [10773],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [17683]
-}, {
-  "engines": [13333, 21781],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [15909],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [29731]
-}, {
-  "engines": [7509, 7253],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [3109, 9253, 19749, 3365],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": [12835, 12579]
-}, {
-  "engines": [13829],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [12853, 12597],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [3877, 3621, 3365],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [2595, 2851]
-}, {
-  "engines": [22805],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [3093, 3349],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [21541],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [34595]
-}, {
-  "engines": [1365, 1109],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [3365, 3621, 19749],
-  "type": "SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [21509],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [4357, 14597, 4613],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [7171, 7427]
-}, {
-  "engines": [7237, 6981, 6725],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [6467, 6723]
-}, {
-  "engines": [6917, 7173],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [7701, 7957, 8213],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [23589],
-  "type": "lightTank",
-  "tier": 8,
-  "turrets": [38179]
-}, {
-  "engines": [17237, 16981],
-  "type": "SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [5157, 4133, 8997],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [16163, 15907]
-}, {
-  "engines": [4613, 11269],
-  "type": "AT-SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [1669, 1413, 645],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [1667, 1923]
-}, {
-  "engines": [6741, 6485],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [5715, 5459]
-}, {
-  "engines": [19461],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [15893],
-  "type": "mediumTank",
-  "tier": 7,
-  "turrets": [25363]
-}, {
-  "engines": [7237, 6981],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [16661, 3093, 3349],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [20501, 20245],
-  "type": "SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [24357],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [39203]
-}, {
-  "engines": [4949, 5461, 4693, 8277],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [24147, 23891]
-}, {
-  "engines": [3877, 3621, 3365],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [17955, 17699]
-}, {
-  "engines": [16165, 20261],
-  "type": "SPG",
-  "tier": 9,
-  "turrets": []
-}, {
-  "engines": [15125],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [9269, 9013],
-  "type": "AT-SPG",
-  "tier": 2,
-  "turrets": []
-}, {
-  "engines": [17173],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [28947]
-}, {
-  "engines": [27925],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [39187]
-}, {
-  "engines": [12853, 12597],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [20501, 24341],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [18707, 18963]
-}, {
-  "engines": [12373],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": [25171]
-}, {
-  "engines": [4133, 5157],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": [19747, 19491]
-}, {
-  "engines": [7493, 4933],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [8771]
-}, {
-  "engines": [27397],
-  "type": "heavyTank",
-  "tier": 10,
-  "turrets": [36355]
-}, {
-  "engines": [21061],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [30275]
-}, {
-  "engines": [22549],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [36115]
-}, {
-  "engines": [9813, 11861, 10325, 10069],
-  "type": "AT-SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [7701, 7957, 12053],
-  "type": "heavyTank",
-  "tier": 7,
-  "turrets": [21011, 20755]
-}, {
-  "engines": [17957, 17701],
-  "type": "lightTank",
-  "tier": 7,
-  "turrets": [25891]
-}, {
-  "engines": [3173, 2917],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [3427, 3683]
-}, {
-  "engines": [28165],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [37635]
-}, {
-  "engines": [16709],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [23107]
-}, {
-  "engines": [15381],
-  "type": "AT-SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [24869],
-  "type": "lightTank",
-  "tier": 10,
-  "turrets": [39971]
-}, {
-  "engines": [8517, 8261],
-  "type": "SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [4469, 4725, 4213],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [3955, 3699]
-}, {
-  "engines": [21525, 21013, 21269],
-  "type": "AT-SPG",
-  "tier": 6,
-  "turrets": []
-}, {
-  "engines": [12373],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [8501],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [9861],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [5765, 5509],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [29189],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [38915]
-}, {
-  "engines": [23109],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [1413, 645],
-  "type": "AT-SPG",
-  "tier": 4,
-  "turrets": []
-}, {
-  "engines": [29461],
-  "type": "AT-SPG",
-  "tier": 7,
-  "turrets": []
-}, {
-  "engines": [17221, 17477],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [25155, 25411]
-}, {
-  "engines": [4117, 4629],
-  "type": "lightTank",
-  "tier": 2,
-  "turrets": [26899, 27155]
-}, {
-  "engines": [16165],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [23843]
-}, {
-  "engines": [29445],
-  "type": "mediumTank",
-  "tier": 4,
-  "turrets": [39939]
-}, {
-  "engines": [9349, 9093],
-  "type": "AT-SPG",
-  "tier": 8,
-  "turrets": []
-}, {
-  "engines": [31509],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [42259]
-}, {
-  "engines": [4677, 6213, 20805],
-  "type": "heavyTank",
-  "tier": 9,
-  "turrets": [29251, 29507]
-}, {
-  "engines": [101],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [99]
-}, {
-  "engines": [18965, 17685],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [29459]
-}, {
-  "engines": [3941, 4197],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [4963, 5219]
-}, {
-  "engines": [11029],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [17939]
-}, {
-  "engines": [25637, 26149],
-  "type": "lightTank",
-  "tier": 6,
-  "turrets": [25379]
-}, {
-  "engines": [2117, 1093, 2373],
-  "type": "heavyTank",
-  "tier": 4,
-  "turrets": [1603, 1859]
-}, {
-  "engines": [32277],
-  "type": "mediumTank",
-  "tier": 8,
-  "turrets": [44307]
-}, {
-  "engines": [23365],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [15381],
-  "type": "mediumTank",
-  "tier": 5,
-  "turrets": [39955]
-}, {
-  "engines": [17685, 17941],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [30995, 31251]
-}, {
-  "engines": [4709],
-  "type": "mediumTank",
-  "tier": 10,
-  "turrets": [6755]
-}, {
-  "engines": [6501, 6245],
-  "type": "heavyTank",
-  "tier": 3,
-  "turrets": [8291]
-}, {
-  "engines": [565],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [819]
-}, {
-  "engines": [1541, 5, 517],
-  "type": "lightTank",
-  "tier": 3,
-  "turrets": [1539, 1283]
-}, {
-  "engines": [36629],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [50195]
-}, {
-  "engines": [3909],
-  "type": "SPG",
-  "tier": 5,
-  "turrets": []
-}, {
-  "engines": [20565],
-  "type": "heavyTank",
-  "tier": 8,
-  "turrets": [29267]
-}, {
-  "engines": [5461, 8277],
-  "type": "SPG",
-  "tier": 3,
-  "turrets": []
-}, {
-  "engines": [19477, 18197, 19733],
-  "type": "mediumTank",
-  "tier": 6,
-  "turrets": [32787, 32531]
-}, {
-  "engines": [1829],
-  "type": "lightTank",
-  "tier": 1,
-  "turrets": [1059]
-}, {
-  "engines": [13093],
-  "type": "AT-SPG",
-  "tier": 10,
-  "turrets": []
-}, {
-  "engines": [11013],
-  "type": "mediumTank",
-  "tier": 3,
-  "turrets": [47619]
-}, {
-  "engines": [2357, 1077, 2101],
-  "type": "mediumTank",
-  "tier": 9,
-  "turrets": [2867, 2611]
-}]
+[
+  {
+    "engines": 5,
+    "guns": 516,
+    "radios": 775,
+    "suspensions": 2,
+    "tank_id": 1,
+    "tier": 5,
+    "turrets": 3,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4421,
+    "guns": 4676,
+    "radios": 2119,
+    "suspensions": 5698,
+    "tank_id": 3137,
+    "tier": 8,
+    "turrets": 4931,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1541,
+    "guns": 6148,
+    "radios": 519,
+    "suspensions": 2818,
+    "tank_id": 1025,
+    "tier": 2,
+    "turrets": 2563,
+    "type": "lightTank"
+  },
+  {
+    "engines": 24069,
+    "guns": 30468,
+    "radios": 7431,
+    "suspensions": 35586,
+    "tank_id": 15617,
+    "tier": 10,
+    "turrets": 29955,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 12565,
+    "guns": 14868,
+    "radios": 3863,
+    "suspensions": 26130,
+    "tank_id": 55313,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 25125,
+    "guns": 26148,
+    "radios": 4391,
+    "suspensions": 37154,
+    "tank_id": 18209,
+    "tier": 9,
+    "turrets": 32035,
+    "type": "lightTank"
+  },
+  {
+    "engines": 22565,
+    "guns": 29220,
+    "radios": 1063,
+    "suspensions": 42530,
+    "tank_id": 2081,
+    "tier": 2,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 30997,
+    "guns": 27412,
+    "radios": 7191,
+    "suspensions": 53778,
+    "tank_id": 50193,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 15701,
+    "guns": 15188,
+    "radios": 599,
+    "suspensions": 21842,
+    "tank_id": 54353,
+    "tier": 5,
+    "turrets": 18771,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 19733,
+    "guns": 1044,
+    "radios": 535,
+    "suspensions": 2578,
+    "tank_id": 1297,
+    "tier": 7,
+    "turrets": 2323,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2101,
+    "guns": 3124,
+    "radios": 823,
+    "suspensions": 3378,
+    "tank_id": 2097,
+    "tier": 9,
+    "turrets": 3123,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 7989,
+    "guns": 10292,
+    "radios": 823,
+    "suspensions": 6706,
+    "tank_id": 3889,
+    "tier": 8,
+    "turrets": 6451,
+    "type": "lightTank"
+  },
+  {
+    "engines": 325,
+    "guns": 5444,
+    "radios": 2119,
+    "suspensions": 7746,
+    "tank_id": 4161,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 2917,
+    "guns": 3684,
+    "radios": 1639,
+    "suspensions": 2914,
+    "tank_id": 1377,
+    "tier": 5,
+    "turrets": 2659,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4629,
+    "guns": 6676,
+    "radios": 279,
+    "suspensions": 7186,
+    "tank_id": 3601,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 1045,
+    "guns": 1300,
+    "radios": 535,
+    "suspensions": 4626,
+    "tank_id": 2321,
+    "tier": 6,
+    "turrets": 3603,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10533,
+    "guns": 12836,
+    "radios": 39,
+    "suspensions": 18466,
+    "tank_id": 52513,
+    "tier": 8,
+    "turrets": 15395,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 7253,
+    "guns": 9044,
+    "radios": 2135,
+    "suspensions": 14418,
+    "tank_id": 6481,
+    "tier": 4,
+    "turrets": 13651,
+    "type": "lightTank"
+  },
+  {
+    "engines": 8469,
+    "guns": 10004,
+    "radios": 3607,
+    "suspensions": 16402,
+    "tank_id": 52497,
+    "tier": 2,
+    "turrets": 13331,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15957,
+    "guns": 19540,
+    "radios": 2135,
+    "suspensions": 30034,
+    "tank_id": 14417,
+    "tier": 6,
+    "turrets": 25939,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 30485,
+    "guns": 26644,
+    "radios": 5655,
+    "suspensions": 48914,
+    "tank_id": 18961,
+    "tier": 7,
+    "turrets": 41491,
+    "type": "lightTank"
+  },
+  {
+    "engines": 19749,
+    "guns": 4900,
+    "radios": 551,
+    "suspensions": 7458,
+    "tank_id": 3617,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 30469,
+    "guns": 18436,
+    "radios": 4615,
+    "suspensions": 50946,
+    "tank_id": 50945,
+    "tier": 2,
+    "turrets": 43779,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2149,
+    "guns": 2660,
+    "radios": 1639,
+    "suspensions": 4450,
+    "tank_id": 2145,
+    "tier": 3,
+    "turrets": 4195,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7189,
+    "guns": 9748,
+    "radios": 3607,
+    "suspensions": 15122,
+    "tank_id": 52241,
+    "tier": 4,
+    "turrets": 12051,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8773,
+    "guns": 5700,
+    "radios": 2887,
+    "suspensions": 11330,
+    "tank_id": 6209,
+    "tier": 10,
+    "turrets": 9283,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 36373,
+    "guns": 25620,
+    "radios": 3863,
+    "suspensions": 56338,
+    "tank_id": 49169,
+    "tier": 6,
+    "turrets": 48659,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 15397,
+    "guns": 18212,
+    "radios": 13607,
+    "suspensions": 27426,
+    "tank_id": 53537,
+    "tier": 2,
+    "turrets": 23587,
+    "type": "lightTank"
+  },
+  {
+    "engines": 14421,
+    "guns": 8020,
+    "radios": 4183,
+    "suspensions": 15954,
+    "tank_id": 7505,
+    "tier": 3,
+    "turrets": 15187,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5237,
+    "guns": 4724,
+    "radios": 2167,
+    "suspensions": 4210,
+    "tank_id": 2161,
+    "tier": 9,
+    "turrets": 4211,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 30997,
+    "guns": 27412,
+    "radios": 7191,
+    "suspensions": 49426,
+    "tank_id": 62481,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 34325,
+    "guns": 30484,
+    "radios": 5399,
+    "suspensions": 55058,
+    "tank_id": 19985,
+    "tier": 10,
+    "turrets": 47379,
+    "type": "lightTank"
+  },
+  {
+    "engines": 293,
+    "guns": 5924,
+    "radios": 3623,
+    "suspensions": 9250,
+    "tank_id": 4641,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 1333,
+    "guns": 6196,
+    "radios": 823,
+    "suspensions": 5682,
+    "tank_id": 3377,
+    "tier": 7,
+    "turrets": 5427,
+    "type": "lightTank"
+  },
+  {
+    "engines": 8245,
+    "guns": 9780,
+    "radios": 2103,
+    "suspensions": 12338,
+    "tank_id": 5937,
+    "tier": 10,
+    "turrets": 11827,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6789,
+    "guns": 1156,
+    "radios": 2439,
+    "suspensions": 642,
+    "tank_id": 129,
+    "tier": 1,
+    "turrets": 643,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2821,
+    "guns": 772,
+    "radios": 519,
+    "suspensions": 6146,
+    "tank_id": 3073,
+    "tier": 3,
+    "turrets": 5635,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15173,
+    "guns": 8004,
+    "radios": 2119,
+    "suspensions": 12866,
+    "tank_id": 7233,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 21,
+    "guns": 276,
+    "radios": 535,
+    "suspensions": 8722,
+    "tank_id": 4369,
+    "tier": 4,
+    "turrets": 6931,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 341,
+    "guns": 12372,
+    "radios": 3159,
+    "suspensions": 18514,
+    "tank_id": 8529,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 149,
+    "guns": 148,
+    "radios": 151,
+    "suspensions": 146,
+    "tank_id": 145,
+    "tier": 6,
+    "turrets": 147,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 8485,
+    "guns": 292,
+    "radios": 1063,
+    "suspensions": 11554,
+    "tank_id": 5665,
+    "tier": 2,
+    "turrets": 10787,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10757,
+    "guns": 19204,
+    "radios": 4103,
+    "suspensions": 17410,
+    "tank_id": 52993,
+    "tier": 4,
+    "turrets": 14083,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10037,
+    "guns": 12852,
+    "radios": 823,
+    "suspensions": 14386,
+    "tank_id": 6961,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 517,
+    "guns": 6660,
+    "radios": 1031,
+    "suspensions": 8450,
+    "tank_id": 4097,
+    "tier": 8,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 14405,
+    "guns": 7492,
+    "radios": 2375,
+    "suspensions": 9794,
+    "tank_id": 8257,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 5493,
+    "guns": 5236,
+    "radios": 2679,
+    "suspensions": 4722,
+    "tank_id": 2417,
+    "tier": 10,
+    "turrets": 4723,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 36117,
+    "guns": 31764,
+    "radios": 1047,
+    "suspensions": 11026,
+    "tank_id": 5393,
+    "tier": 5,
+    "turrets": 8723,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6229,
+    "guns": 12116,
+    "radios": 2135,
+    "suspensions": 19026,
+    "tank_id": 9553,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 7429,
+    "guns": 18948,
+    "radios": 4359,
+    "suspensions": 24066,
+    "tank_id": 54017,
+    "tier": 5,
+    "turrets": 19459,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4869,
+    "guns": 12548,
+    "radios": 519,
+    "suspensions": 10498,
+    "tank_id": 5121,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 11045,
+    "guns": 7716,
+    "radios": 39,
+    "suspensions": 14626,
+    "tank_id": 52257,
+    "tier": 5,
+    "turrets": 13091,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 565,
+    "guns": 564,
+    "radios": 55,
+    "suspensions": 11570,
+    "tank_id": 65073,
+    "tier": 8,
+    "turrets": 11315,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 789,
+    "guns": 788,
+    "radios": 535,
+    "suspensions": 13586,
+    "tank_id": 6417,
+    "tier": 5,
+    "turrets": 11027,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10533,
+    "guns": 27172,
+    "radios": 39,
+    "suspensions": 38178,
+    "tank_id": 56609,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 16725,
+    "guns": 15444,
+    "radios": 4183,
+    "suspensions": 22098,
+    "tank_id": 10577,
+    "tier": 2,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 6181,
+    "guns": 8996,
+    "radios": 1063,
+    "suspensions": 16162,
+    "tank_id": 7713,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 6229,
+    "guns": 3668,
+    "radios": 2135,
+    "suspensions": 5202,
+    "tank_id": 2129,
+    "tier": 5,
+    "turrets": 4947,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5893,
+    "guns": 23812,
+    "radios": 2823,
+    "suspensions": 12290,
+    "tank_id": 6145,
+    "tier": 10,
+    "turrets": 10243,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8213,
+    "guns": 2324,
+    "radios": 2071,
+    "suspensions": 16146,
+    "tank_id": 7441,
+    "tier": 9,
+    "turrets": 12819,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 23589,
+    "guns": 29988,
+    "radios": 16167,
+    "suspensions": 43298,
+    "tank_id": 57633,
+    "tier": 7,
+    "turrets": 37923,
+    "type": "lightTank"
+  },
+  {
+    "engines": 12117,
+    "guns": 16468,
+    "radios": 3159,
+    "suspensions": 24402,
+    "tank_id": 11601,
+    "tier": 9,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 9765,
+    "guns": 11556,
+    "radios": 2087,
+    "suspensions": 17954,
+    "tank_id": 8737,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 33285,
+    "guns": 39684,
+    "radios": 1287,
+    "suspensions": 37634,
+    "tank_id": 16641,
+    "tier": 6,
+    "turrets": 31235,
+    "type": "lightTank"
+  },
+  {
+    "engines": 34565,
+    "guns": 14852,
+    "radios": 2823,
+    "suspensions": 14850,
+    "tank_id": 7169,
+    "tier": 10,
+    "turrets": 12035,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 27669,
+    "guns": 24596,
+    "radios": 6679,
+    "suspensions": 46354,
+    "tank_id": 60177,
+    "tier": 8,
+    "turrets": 38931,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 19733,
+    "guns": 1300,
+    "radios": 535,
+    "suspensions": 20498,
+    "tank_id": 8465,
+    "tier": 8,
+    "turrets": 16147,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 24613,
+    "guns": 31012,
+    "radios": 4903,
+    "suspensions": 44322,
+    "tank_id": 58657,
+    "tier": 8,
+    "turrets": 38947,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 26389,
+    "guns": 23572,
+    "radios": 2583,
+    "suspensions": 40722,
+    "tank_id": 16657,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 32021,
+    "guns": 28436,
+    "radios": 7703,
+    "suspensions": 51474,
+    "tank_id": 63505,
+    "tier": 3,
+    "turrets": 44051,
+    "type": "lightTank"
+  },
+  {
+    "engines": 26405,
+    "guns": 23332,
+    "radios": 4391,
+    "suspensions": 20770,
+    "tank_id": 9761,
+    "tier": 5,
+    "turrets": 17443,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2341,
+    "guns": 6948,
+    "radios": 3879,
+    "suspensions": 1314,
+    "tank_id": 51489,
+    "tier": 2,
+    "turrets": 1315,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10245,
+    "guns": 20484,
+    "radios": 2055,
+    "suspensions": 18434,
+    "tank_id": 8193,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 6453,
+    "guns": 9268,
+    "radios": 2103,
+    "suspensions": 11058,
+    "tank_id": 63537,
+    "tier": 10,
+    "turrets": 10803,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11285,
+    "guns": 14100,
+    "radios": 3351,
+    "suspensions": 23058,
+    "tank_id": 9489,
+    "tier": 10,
+    "turrets": 18451,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10277,
+    "guns": 24612,
+    "radios": 39,
+    "suspensions": 45602,
+    "tank_id": 59681,
+    "tier": 6,
+    "turrets": 40227,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4661,
+    "guns": 6964,
+    "radios": 2871,
+    "suspensions": 7474,
+    "tank_id": 4401,
+    "tier": 3,
+    "turrets": 7219,
+    "type": "lightTank"
+  },
+  {
+    "engines": 21269,
+    "guns": 1812,
+    "radios": 535,
+    "suspensions": 530,
+    "tank_id": 273,
+    "tier": 6,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 13093,
+    "guns": 14116,
+    "radios": 2855,
+    "suspensions": 22562,
+    "tank_id": 10785,
+    "tier": 10,
+    "turrets": 19235,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 13061,
+    "guns": 33284,
+    "radios": 5639,
+    "suspensions": 43266,
+    "tank_id": 58113,
+    "tier": 6,
+    "turrets": 36099,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1093,
+    "guns": 1348,
+    "radios": 583,
+    "suspensions": 834,
+    "tank_id": 321,
+    "tier": 3,
+    "turrets": 323,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14085,
+    "guns": 22532,
+    "radios": 5127,
+    "suspensions": 24578,
+    "tank_id": 9217,
+    "tier": 8,
+    "turrets": 19971,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8213,
+    "guns": 2324,
+    "radios": 2071,
+    "suspensions": 25106,
+    "tank_id": 10513,
+    "tier": 8,
+    "turrets": 20243,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3413,
+    "guns": 18260,
+    "radios": 3159,
+    "suspensions": 30802,
+    "tank_id": 14673,
+    "tier": 8,
+    "turrets": 26451,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3413,
+    "guns": 21844,
+    "radios": 3159,
+    "suspensions": 10066,
+    "tank_id": 4433,
+    "tier": 9,
+    "turrets": 9555,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 27909,
+    "guns": 34308,
+    "radios": 5127,
+    "suspensions": 44546,
+    "tank_id": 59137,
+    "tier": 7,
+    "turrets": 37379,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 16453,
+    "guns": 16196,
+    "radios": 5191,
+    "suspensions": 31810,
+    "tank_id": 63297,
+    "tier": 7,
+    "turrets": 26179,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6277,
+    "guns": 4484,
+    "radios": 2183,
+    "suspensions": 7042,
+    "tank_id": 1921,
+    "tier": 8,
+    "turrets": 5507,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1381,
+    "guns": 356,
+    "radios": 871,
+    "suspensions": 866,
+    "tank_id": 353,
+    "tier": 2,
+    "turrets": 611,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20485,
+    "guns": 28420,
+    "radios": 775,
+    "suspensions": 23298,
+    "tank_id": 10241,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 16197,
+    "guns": 8260,
+    "radios": 2119,
+    "suspensions": 24898,
+    "tank_id": 14401,
+    "tier": 9,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 19733,
+    "guns": 7444,
+    "radios": 535,
+    "suspensions": 27410,
+    "tank_id": 11537,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12373,
+    "guns": 7508,
+    "radios": 5207,
+    "suspensions": 33106,
+    "tank_id": 15697,
+    "tier": 10,
+    "turrets": 28755,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 885,
+    "guns": 1140,
+    "radios": 631,
+    "suspensions": 626,
+    "tank_id": 369,
+    "tier": 2,
+    "turrets": 883,
+    "type": "lightTank"
+  },
+  {
+    "engines": 25605,
+    "guns": 35588,
+    "radios": 5127,
+    "suspensions": 45570,
+    "tank_id": 60161,
+    "tier": 6,
+    "turrets": 38403,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 133,
+    "guns": 132,
+    "radios": 135,
+    "suspensions": 130,
+    "tank_id": 51585,
+    "tier": 6,
+    "turrets": 131,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2565,
+    "guns": 2564,
+    "radios": 1031,
+    "suspensions": 26114,
+    "tank_id": 11265,
+    "tier": 6,
+    "turrets": 21507,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1109,
+    "guns": 1620,
+    "radios": 1111,
+    "suspensions": 1362,
+    "tank_id": 81,
+    "tier": 1,
+    "turrets": 1107,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11077,
+    "guns": 68,
+    "radios": 2119,
+    "suspensions": 66,
+    "tank_id": 5185,
+    "tier": 7,
+    "turrets": 7747,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5141,
+    "guns": 19220,
+    "radios": 1047,
+    "suspensions": 32018,
+    "tank_id": 12561,
+    "tier": 3,
+    "turrets": 26387,
+    "type": "lightTank"
+  },
+  {
+    "engines": 26117,
+    "guns": 19972,
+    "radios": 1287,
+    "suspensions": 40450,
+    "tank_id": 17665,
+    "tier": 9,
+    "turrets": 34051,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 373,
+    "guns": 116,
+    "radios": 119,
+    "suspensions": 114,
+    "tank_id": 51569,
+    "tier": 6,
+    "turrets": 115,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 53,
+    "guns": 564,
+    "radios": 55,
+    "suspensions": 9522,
+    "tank_id": 64049,
+    "tier": 8,
+    "turrets": 9267,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 29701,
+    "guns": 36100,
+    "radios": 7943,
+    "suspensions": 46850,
+    "tank_id": 61185,
+    "tier": 10,
+    "turrets": 39683,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1029,
+    "guns": 516,
+    "radios": 775,
+    "suspensions": 28418,
+    "tank_id": 12289,
+    "tier": 6,
+    "turrets": 23555,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3685,
+    "guns": 4196,
+    "radios": 1895,
+    "suspensions": 2402,
+    "tank_id": 1121,
+    "tier": 7,
+    "turrets": 2147,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20805,
+    "guns": 4676,
+    "radios": 2119,
+    "suspensions": 34882,
+    "tank_id": 16449,
+    "tier": 8,
+    "turrets": 28995,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10245,
+    "guns": 8452,
+    "radios": 1031,
+    "suspensions": 15618,
+    "tank_id": 7425,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 16917,
+    "guns": 276,
+    "radios": 535,
+    "suspensions": 34578,
+    "tank_id": 13585,
+    "tier": 4,
+    "turrets": 28435,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1381,
+    "guns": 3172,
+    "radios": 1639,
+    "suspensions": 4962,
+    "tank_id": 2401,
+    "tier": 3,
+    "turrets": 4451,
+    "type": "lightTank"
+  },
+  {
+    "engines": 17189,
+    "guns": 20516,
+    "radios": 2855,
+    "suspensions": 28962,
+    "tank_id": 14881,
+    "tier": 10,
+    "turrets": 24867,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 29957,
+    "guns": 36868,
+    "radios": 4359,
+    "suspensions": 49410,
+    "tank_id": 62209,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 1349,
+    "guns": 2116,
+    "radios": 583,
+    "suspensions": 1602,
+    "tank_id": 833,
+    "tier": 2,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 18437,
+    "guns": 3332,
+    "radios": 1287,
+    "suspensions": 30722,
+    "tank_id": 13313,
+    "tier": 8,
+    "turrets": 25091,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 21573,
+    "guns": 20804,
+    "radios": 2119,
+    "suspensions": 36674,
+    "tank_id": 17473,
+    "tier": 8,
+    "turrets": 30787,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5477,
+    "guns": 6500,
+    "radios": 3175,
+    "suspensions": 7778,
+    "tank_id": 52321,
+    "tier": 6,
+    "turrets": 7267,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 19221,
+    "guns": 20244,
+    "radios": 5399,
+    "suspensions": 36626,
+    "tank_id": 14609,
+    "tier": 10,
+    "turrets": 30739,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 18981,
+    "guns": 21796,
+    "radios": 14887,
+    "suspensions": 31522,
+    "tank_id": 15905,
+    "tier": 10,
+    "turrets": 26915,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 29957,
+    "guns": 36868,
+    "radios": 4359,
+    "suspensions": 50690,
+    "tank_id": 63233,
+    "tier": 8,
+    "turrets": 43523,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 9221,
+    "guns": 27652,
+    "radios": 2823,
+    "suspensions": 32258,
+    "tank_id": 14337,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 7509,
+    "guns": 7764,
+    "radios": 3159,
+    "suspensions": 7250,
+    "tank_id": 3153,
+    "tier": 7,
+    "turrets": 7251,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3157,
+    "guns": 4692,
+    "radios": 2135,
+    "suspensions": 3154,
+    "tank_id": 1105,
+    "tier": 6,
+    "turrets": 3155,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5141,
+    "guns": 8468,
+    "radios": 1047,
+    "suspensions": 38674,
+    "tank_id": 15633,
+    "tier": 4,
+    "turrets": 32019,
+    "type": "SPG"
+  },
+  {
+    "engines": 549,
+    "guns": 804,
+    "radios": 1063,
+    "suspensions": 290,
+    "tank_id": 289,
+    "tier": 3,
+    "turrets": 547,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6757,
+    "guns": 3428,
+    "radios": 871,
+    "suspensions": 8802,
+    "tank_id": 4449,
+    "tier": 4,
+    "turrets": 8035,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 34309,
+    "guns": 41988,
+    "radios": 5127,
+    "suspensions": 55042,
+    "tank_id": 47617,
+    "tier": 8,
+    "turrets": 47875,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2101,
+    "guns": 2356,
+    "radios": 823,
+    "suspensions": 2354,
+    "tank_id": 1585,
+    "tier": 8,
+    "turrets": 2099,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5,
+    "guns": 4,
+    "radios": 775,
+    "suspensions": 4098,
+    "tank_id": 2049,
+    "tier": 4,
+    "turrets": 3843,
+    "type": "lightTank"
+  },
+  {
+    "engines": 36629,
+    "guns": 32532,
+    "radios": 4119,
+    "suspensions": 57106,
+    "tank_id": 48913,
+    "tier": 8,
+    "turrets": 49427,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4933,
+    "guns": 4420,
+    "radios": 583,
+    "suspensions": 5186,
+    "tank_id": 2881,
+    "tier": 4,
+    "turrets": 4675,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9477,
+    "guns": 17668,
+    "radios": 2567,
+    "suspensions": 15106,
+    "tank_id": 51713,
+    "tier": 5,
+    "turrets": 12291,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10245,
+    "guns": 11780,
+    "radios": 2055,
+    "suspensions": 10754,
+    "tank_id": 5377,
+    "tier": 8,
+    "turrets": 8963,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 517,
+    "guns": 14340,
+    "radios": 1031,
+    "suspensions": 36610,
+    "tank_id": 16129,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 7013,
+    "guns": 8292,
+    "radios": 871,
+    "suspensions": 10850,
+    "tank_id": 5473,
+    "tier": 6,
+    "turrets": 9059,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5653,
+    "guns": 11284,
+    "radios": 791,
+    "suspensions": 13330,
+    "tank_id": 51729,
+    "tier": 3,
+    "turrets": 10515,
+    "type": "lightTank"
+  },
+  {
+    "engines": 31493,
+    "guns": 38148,
+    "radios": 5127,
+    "suspensions": 54018,
+    "tank_id": 48641,
+    "tier": 8,
+    "turrets": 46851,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 25381,
+    "guns": 25636,
+    "radios": 4391,
+    "suspensions": 36386,
+    "tank_id": 17953,
+    "tier": 8,
+    "turrets": 31267,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6213,
+    "guns": 4676,
+    "radios": 2119,
+    "suspensions": 6978,
+    "tank_id": 3905,
+    "tier": 9,
+    "turrets": 5699,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5669,
+    "guns": 11556,
+    "radios": 2087,
+    "suspensions": 24610,
+    "tank_id": 2593,
+    "tier": 9,
+    "turrets": 5155,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 21,
+    "guns": 7700,
+    "radios": 535,
+    "suspensions": 2066,
+    "tank_id": 1041,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 11093,
+    "guns": 8020,
+    "radios": 4183,
+    "suspensions": 12114,
+    "tank_id": 5201,
+    "tier": 2,
+    "turrets": 11347,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5429,
+    "guns": 7220,
+    "radios": 3639,
+    "suspensions": 7986,
+    "tank_id": 4657,
+    "tier": 5,
+    "turrets": 7731,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 31493,
+    "guns": 38148,
+    "radios": 5127,
+    "suspensions": 52226,
+    "tank_id": 49665,
+    "tier": 8,
+    "turrets": 45059,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 32789,
+    "guns": 29204,
+    "radios": 8215,
+    "suspensions": 52754,
+    "tank_id": 50961,
+    "tier": 8,
+    "turrets": 45331,
+    "type": "lightTank"
+  },
+  {
+    "engines": 11077,
+    "guns": 21316,
+    "radios": 2119,
+    "suspensions": 9282,
+    "tank_id": 4929,
+    "tier": 9,
+    "turrets": 7491,
+    "type": "lightTank"
+  },
+  {
+    "engines": 325,
+    "guns": 6724,
+    "radios": 2119,
+    "suspensions": 9026,
+    "tank_id": 4673,
+    "tier": 6,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 3605,
+    "guns": 2580,
+    "radios": 535,
+    "suspensions": 4370,
+    "tank_id": 2065,
+    "tier": 2,
+    "turrets": 3091,
+    "type": "lightTank"
+  },
+  {
+    "engines": 20565,
+    "guns": 22612,
+    "radios": 5207,
+    "suspensions": 13906,
+    "tank_id": 6225,
+    "tier": 10,
+    "turrets": 13395,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4965,
+    "guns": 5988,
+    "radios": 103,
+    "suspensions": 6242,
+    "tank_id": 3169,
+    "tier": 2,
+    "turrets": 5987,
+    "type": "lightTank"
+  },
+  {
+    "engines": 29205,
+    "guns": 9492,
+    "radios": 2071,
+    "suspensions": 47890,
+    "tank_id": 18705,
+    "tier": 9,
+    "turrets": 40211,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 2597,
+    "guns": 1828,
+    "radios": 1831,
+    "suspensions": 6946,
+    "tank_id": 3361,
+    "tier": 5,
+    "turrets": 6691,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 13909,
+    "guns": 9300,
+    "radios": 599,
+    "suspensions": 16210,
+    "tank_id": 53841,
+    "tier": 6,
+    "turrets": 15443,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 6933,
+    "guns": 9748,
+    "radios": 3607,
+    "suspensions": 14866,
+    "tank_id": 51985,
+    "tier": 3,
+    "turrets": 11795,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 597,
+    "guns": 9300,
+    "radios": 343,
+    "suspensions": 32594,
+    "tank_id": 56145,
+    "tier": 6,
+    "turrets": 28243,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 613,
+    "guns": 868,
+    "radios": 615,
+    "suspensions": 1378,
+    "tank_id": 609,
+    "tier": 1,
+    "turrets": 1123,
+    "type": "lightTank"
+  },
+  {
+    "engines": 33029,
+    "guns": 32772,
+    "radios": 1287,
+    "suspensions": 42498,
+    "tank_id": 18433,
+    "tier": 8,
+    "turrets": 35331,
+    "type": "lightTank"
+  },
+  {
+    "engines": 32277,
+    "guns": 28692,
+    "radios": 7959,
+    "suspensions": 54802,
+    "tank_id": 49937,
+    "tier": 8,
+    "turrets": 47123,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 37,
+    "guns": 4132,
+    "radios": 2087,
+    "suspensions": 8738,
+    "tank_id": 4385,
+    "tier": 8,
+    "turrets": 7971,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1653,
+    "guns": 1140,
+    "radios": 631,
+    "suspensions": 1394,
+    "tank_id": 625,
+    "tier": 3,
+    "turrets": 1139,
+    "type": "lightTank"
+  },
+  {
+    "engines": 7733,
+    "guns": 10036,
+    "radios": 823,
+    "suspensions": 12082,
+    "tank_id": 5681,
+    "tier": 9,
+    "turrets": 11571,
+    "type": "lightTank"
+  },
+  {
+    "engines": 773,
+    "guns": 2820,
+    "radios": 775,
+    "suspensions": 42754,
+    "tank_id": 2817,
+    "tier": 6,
+    "turrets": 35587,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 389,
+    "guns": 388,
+    "radios": 391,
+    "suspensions": 386,
+    "tank_id": 51841,
+    "tier": 2,
+    "turrets": 387,
+    "type": "lightTank"
+  },
+  {
+    "engines": 4885,
+    "guns": 1300,
+    "radios": 535,
+    "suspensions": 8466,
+    "tank_id": 4113,
+    "tier": 7,
+    "turrets": 6675,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14933,
+    "guns": 11860,
+    "radios": 4183,
+    "suspensions": 18002,
+    "tank_id": 8273,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 27173,
+    "guns": 32548,
+    "radios": 4391,
+    "suspensions": 11042,
+    "tank_id": 5409,
+    "tier": 5,
+    "turrets": 10531,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10501,
+    "guns": 18692,
+    "radios": 3847,
+    "suspensions": 17154,
+    "tank_id": 52737,
+    "tier": 3,
+    "turrets": 13827,
+    "type": "lightTank"
+  },
+  {
+    "engines": 3589,
+    "guns": 10244,
+    "radios": 519,
+    "suspensions": 7682,
+    "tank_id": 3841,
+    "tier": 2,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 7221,
+    "guns": 8756,
+    "radios": 4151,
+    "suspensions": 10546,
+    "tank_id": 64817,
+    "tier": 6,
+    "turrets": 10291,
+    "type": "lightTank"
+  },
+  {
+    "engines": 20245,
+    "guns": 2324,
+    "radios": 535,
+    "suspensions": 10514,
+    "tank_id": 5137,
+    "tier": 8,
+    "turrets": 8211,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 16213,
+    "guns": 23124,
+    "radios": 5207,
+    "suspensions": 20306,
+    "tank_id": 9297,
+    "tier": 10,
+    "turrets": 17747,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 629,
+    "guns": 372,
+    "radios": 375,
+    "suspensions": 370,
+    "tank_id": 113,
+    "tier": 1,
+    "turrets": 371,
+    "type": "lightTank"
+  },
+  {
+    "engines": 20005,
+    "guns": 9508,
+    "radios": 3623,
+    "suspensions": 39714,
+    "tank_id": 6433,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 13829,
+    "guns": 21764,
+    "radios": 5639,
+    "suspensions": 22786,
+    "tank_id": 53761,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 10549,
+    "guns": 13876,
+    "radios": 823,
+    "suspensions": 15922,
+    "tank_id": 7729,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 4869,
+    "guns": 10756,
+    "radios": 519,
+    "suspensions": 9730,
+    "tank_id": 4865,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 3349,
+    "guns": 276,
+    "radios": 535,
+    "suspensions": 12818,
+    "tank_id": 6161,
+    "tier": 4,
+    "turrets": 9747,
+    "type": "lightTank"
+  },
+  {
+    "engines": 20773,
+    "guns": 26916,
+    "radios": 16679,
+    "suspensions": 37922,
+    "tank_id": 56353,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 23333,
+    "guns": 29476,
+    "radios": 16167,
+    "suspensions": 42786,
+    "tank_id": 57121,
+    "tier": 8,
+    "turrets": 37411,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 18181,
+    "guns": 25860,
+    "radios": 4103,
+    "suspensions": 30210,
+    "tank_id": 54785,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 1029,
+    "guns": 23556,
+    "radios": 1031,
+    "suspensions": 12034,
+    "tank_id": 5889,
+    "tier": 7,
+    "turrets": 9731,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 7445,
+    "guns": 1300,
+    "radios": 535,
+    "suspensions": 15634,
+    "tank_id": 7185,
+    "tier": 6,
+    "turrets": 12307,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 13349,
+    "guns": 29732,
+    "radios": 4903,
+    "suspensions": 43042,
+    "tank_id": 57377,
+    "tier": 8,
+    "turrets": 37667,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6229,
+    "guns": 16468,
+    "radios": 2135,
+    "suspensions": 23890,
+    "tank_id": 11345,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 19493,
+    "guns": 12068,
+    "radios": 15399,
+    "suspensions": 17442,
+    "tank_id": 8481,
+    "tier": 10,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 6917,
+    "guns": 15620,
+    "radios": 775,
+    "suspensions": 14338,
+    "tank_id": 6913,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 6213,
+    "guns": 12100,
+    "radios": 2119,
+    "suspensions": 18498,
+    "tank_id": 11073,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 31237,
+    "guns": 37892,
+    "radios": 5127,
+    "suspensions": 51970,
+    "tank_id": 49921,
+    "tier": 7,
+    "turrets": 44803,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5397,
+    "guns": 276,
+    "radios": 535,
+    "suspensions": 19730,
+    "tank_id": 8209,
+    "tier": 4,
+    "turrets": 15891,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9045,
+    "guns": 17236,
+    "radios": 5207,
+    "suspensions": 25938,
+    "tank_id": 12369,
+    "tier": 10,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 7557,
+    "guns": 4484,
+    "radios": 2183,
+    "suspensions": 8322,
+    "tank_id": 2177,
+    "tier": 9,
+    "turrets": 6019,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 11557,
+    "guns": 13860,
+    "radios": 4391,
+    "suspensions": 20002,
+    "tank_id": 9505,
+    "tier": 9,
+    "turrets": 16675,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5141,
+    "guns": 3604,
+    "radios": 1047,
+    "suspensions": 33554,
+    "tank_id": 13073,
+    "tier": 3,
+    "turrets": 27411,
+    "type": "lightTank"
+  },
+  {
+    "engines": 25605,
+    "guns": 31748,
+    "radios": 7175,
+    "suspensions": 378626,
+    "tank_id": 56833,
+    "tier": 7,
+    "turrets": 32003,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11269,
+    "guns": 19716,
+    "radios": 1287,
+    "suspensions": 17666,
+    "tank_id": 7937,
+    "tier": 9,
+    "turrets": 14595,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4421,
+    "guns": 11332,
+    "radios": 2119,
+    "suspensions": 20802,
+    "tank_id": 12097,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12837,
+    "guns": 15652,
+    "radios": 4903,
+    "suspensions": 5922,
+    "tank_id": 2849,
+    "tier": 8,
+    "turrets": 5667,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 20757,
+    "guns": 13332,
+    "radios": 3351,
+    "suspensions": 22034,
+    "tank_id": 9233,
+    "tier": 10,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 12837,
+    "guns": 15652,
+    "radios": 4903,
+    "suspensions": 45090,
+    "tank_id": 59425,
+    "tier": 8,
+    "turrets": 39715,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10325,
+    "guns": 12628,
+    "radios": 2135,
+    "suspensions": 28754,
+    "tank_id": 13393,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 1333,
+    "guns": 10804,
+    "radios": 567,
+    "suspensions": 8498,
+    "tank_id": 4913,
+    "tier": 6,
+    "turrets": 8243,
+    "type": "lightTank"
+  },
+  {
+    "engines": 12581,
+    "guns": 9764,
+    "radios": 3623,
+    "suspensions": 22050,
+    "tank_id": 10529,
+    "tier": 5,
+    "turrets": 18979,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 2101,
+    "guns": 3124,
+    "radios": 823,
+    "suspensions": 4402,
+    "tank_id": 2865,
+    "tier": 8,
+    "turrets": 4659,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 773,
+    "guns": 7172,
+    "radios": 2055,
+    "suspensions": 19714,
+    "tank_id": 8961,
+    "tier": 7,
+    "turrets": 15619,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 13125,
+    "guns": 1348,
+    "radios": 6727,
+    "suspensions": 22338,
+    "tank_id": 13121,
+    "tier": 3,
+    "turrets": 17475,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4421,
+    "guns": 3652,
+    "radios": 2119,
+    "suspensions": 12610,
+    "tank_id": 6977,
+    "tier": 7,
+    "turrets": 10563,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 19733,
+    "guns": 14612,
+    "radios": 535,
+    "suspensions": 24594,
+    "tank_id": 10257,
+    "tier": 9,
+    "turrets": 19731,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3365,
+    "guns": 10020,
+    "radios": 3623,
+    "suspensions": 23842,
+    "tank_id": 11553,
+    "tier": 6,
+    "turrets": 20259,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 19205,
+    "guns": 3844,
+    "radios": 2055,
+    "suspensions": 25090,
+    "tank_id": 10753,
+    "tier": 9,
+    "turrets": 20483,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 14165,
+    "guns": 9556,
+    "radios": 599,
+    "suspensions": 16978,
+    "tank_id": 54097,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 18757,
+    "guns": 17988,
+    "radios": 5191,
+    "suspensions": 32322,
+    "tank_id": 63041,
+    "tier": 8,
+    "turrets": 26691,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2437,
+    "guns": 3972,
+    "radios": 1159,
+    "suspensions": 6274,
+    "tank_id": 1665,
+    "tier": 7,
+    "turrets": 4995,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4613,
+    "guns": 21508,
+    "radios": 1287,
+    "suspensions": 22274,
+    "tank_id": 9985,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 22597,
+    "guns": 21828,
+    "radios": 2119,
+    "suspensions": 23874,
+    "tank_id": 14145,
+    "tier": 5,
+    "turrets": 18755,
+    "type": "lightTank"
+  },
+  {
+    "engines": 1381,
+    "guns": 1892,
+    "radios": 871,
+    "suspensions": 1634,
+    "tank_id": 865,
+    "tier": 2,
+    "turrets": 1379,
+    "type": "lightTank"
+  },
+  {
+    "engines": 25621,
+    "guns": 8980,
+    "radios": 279,
+    "suspensions": 26898,
+    "tank_id": 11281,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 20053,
+    "guns": 21332,
+    "radios": 7511,
+    "suspensions": 32338,
+    "tank_id": 15441,
+    "tier": 8,
+    "turrets": 27987,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10261,
+    "guns": 13076,
+    "radios": 4119,
+    "suspensions": 21778,
+    "tank_id": 54289,
+    "tier": 8,
+    "turrets": 17171,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 14373,
+    "guns": 7716,
+    "radios": 39,
+    "suspensions": 25890,
+    "tank_id": 12577,
+    "tier": 5,
+    "turrets": 22051,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2421,
+    "guns": 1908,
+    "radios": 631,
+    "suspensions": 1650,
+    "tank_id": 881,
+    "tier": 4,
+    "turrets": 1907,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 28677,
+    "guns": 35076,
+    "radios": 6663,
+    "suspensions": 45314,
+    "tank_id": 59905,
+    "tier": 8,
+    "turrets": 38147,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14917,
+    "guns": 15428,
+    "radios": 5191,
+    "suspensions": 24386,
+    "tank_id": 64065,
+    "tier": 8,
+    "turrets": 19011,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3461,
+    "guns": 5252,
+    "radios": 647,
+    "suspensions": 1666,
+    "tank_id": 2689,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 24837,
+    "guns": 6660,
+    "radios": 1031,
+    "suspensions": 18946,
+    "tank_id": 8449,
+    "tier": 9,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 15109,
+    "guns": 25604,
+    "radios": 2055,
+    "suspensions": 25858,
+    "tank_id": 11009,
+    "tier": 8,
+    "turrets": 20995,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 18245,
+    "guns": 1092,
+    "radios": 6471,
+    "suspensions": 30274,
+    "tank_id": 15169,
+    "tier": 2,
+    "turrets": 24387,
+    "type": "lightTank"
+  },
+  {
+    "engines": 1925,
+    "guns": 2180,
+    "radios": 1159,
+    "suspensions": 3202,
+    "tank_id": 897,
+    "tier": 4,
+    "turrets": 2435,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 15637,
+    "guns": 18452,
+    "radios": 3351,
+    "suspensions": 30738,
+    "tank_id": 12305,
+    "tier": 10,
+    "turrets": 25107,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10309,
+    "guns": 11076,
+    "radios": 2375,
+    "suspensions": 16706,
+    "tank_id": 10049,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 7013,
+    "guns": 9572,
+    "radios": 1895,
+    "suspensions": 8546,
+    "tank_id": 4193,
+    "tier": 9,
+    "turrets": 7779,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 53,
+    "guns": 9012,
+    "radios": 4407,
+    "suspensions": 10802,
+    "tank_id": 63793,
+    "tier": 8,
+    "turrets": 10547,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11013,
+    "guns": 35844,
+    "radios": 4615,
+    "suspensions": 46594,
+    "tank_id": 60929,
+    "tier": 3,
+    "turrets": 39427,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2645,
+    "guns": 10068,
+    "radios": 4183,
+    "suspensions": 2898,
+    "tank_id": 849,
+    "tier": 4,
+    "turrets": 2643,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 12821,
+    "guns": 20,
+    "radios": 535,
+    "suspensions": 33810,
+    "tank_id": 13329,
+    "tier": 4,
+    "turrets": 27923,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 16933,
+    "guns": 20004,
+    "radios": 3623,
+    "suspensions": 28706,
+    "tank_id": 14625,
+    "tier": 8,
+    "turrets": 24611,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 28677,
+    "guns": 36612,
+    "radios": 6663,
+    "suspensions": 49154,
+    "tank_id": 61953,
+    "tier": 8,
+    "turrets": 41987,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1349,
+    "guns": 1860,
+    "radios": 327,
+    "suspensions": 1346,
+    "tank_id": 577,
+    "tier": 1,
+    "turrets": 1091,
+    "type": "lightTank"
+  },
+  {
+    "engines": 1157,
+    "guns": 9092,
+    "radios": 903,
+    "suspensions": 9346,
+    "tank_id": 4737,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 31765,
+    "guns": 28180,
+    "radios": 7447,
+    "suspensions": 51218,
+    "tank_id": 63249,
+    "tier": 5,
+    "turrets": 43795,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 21317,
+    "guns": 20036,
+    "radios": 8775,
+    "suspensions": 36418,
+    "tank_id": 17217,
+    "tier": 10,
+    "turrets": 30531,
+    "type": "lightTank"
+  },
+  {
+    "engines": 65301,
+    "guns": 65812,
+    "radios": 65559,
+    "suspensions": 36114,
+    "tank_id": 14353,
+    "tier": 7,
+    "turrets": 30227,
+    "type": "lightTank"
+  },
+  {
+    "engines": 309,
+    "guns": 308,
+    "radios": 311,
+    "suspensions": 306,
+    "tank_id": 305,
+    "tier": 7,
+    "turrets": 307,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2565,
+    "guns": 6660,
+    "radios": 1031,
+    "suspensions": 3074,
+    "tank_id": 1793,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 28677,
+    "guns": 36612,
+    "radios": 6663,
+    "suspensions": 50434,
+    "tank_id": 62977,
+    "tier": 8,
+    "turrets": 43267,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3397,
+    "guns": 1860,
+    "radios": 327,
+    "suspensions": 3394,
+    "tank_id": 1601,
+    "tier": 2,
+    "turrets": 2883,
+    "type": "lightTank"
+  },
+  {
+    "engines": 32277,
+    "guns": 28692,
+    "radios": 7959,
+    "suspensions": 52498,
+    "tank_id": 64273,
+    "tier": 8,
+    "turrets": 45075,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7253,
+    "guns": 10324,
+    "radios": 2135,
+    "suspensions": 6738,
+    "tank_id": 2897,
+    "tier": 5,
+    "turrets": 6483,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 23573,
+    "guns": 12564,
+    "radios": 535,
+    "suspensions": 38162,
+    "tank_id": 15377,
+    "tier": 8,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 8229,
+    "guns": 7716,
+    "radios": 39,
+    "suspensions": 34,
+    "tank_id": 33,
+    "tier": 5,
+    "turrets": 35,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 19029,
+    "guns": 9300,
+    "radios": 599,
+    "suspensions": 26962,
+    "tank_id": 55121,
+    "tier": 7,
+    "turrets": 23123,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 34309,
+    "guns": 41988,
+    "radios": 5127,
+    "suspensions": 55298,
+    "tank_id": 47361,
+    "tier": 8,
+    "turrets": 48131,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 12325,
+    "guns": 24868,
+    "radios": 4391,
+    "suspensions": 33570,
+    "tank_id": 16673,
+    "tier": 6,
+    "turrets": 28451,
+    "type": "lightTank"
+  },
+  {
+    "engines": 3669,
+    "guns": 1876,
+    "radios": 4183,
+    "suspensions": 2386,
+    "tank_id": 593,
+    "tier": 2,
+    "turrets": 2387,
+    "type": "lightTank"
+  },
+  {
+    "engines": 517,
+    "guns": 7172,
+    "radios": 1031,
+    "suspensions": 27394,
+    "tank_id": 11777,
+    "tier": 5,
+    "turrets": 22787,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4421,
+    "guns": 3652,
+    "radios": 2119,
+    "suspensions": 4418,
+    "tank_id": 2625,
+    "tier": 6,
+    "turrets": 3907,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4373,
+    "guns": 5652,
+    "radios": 279,
+    "suspensions": 6418,
+    "tank_id": 3089,
+    "tier": 1,
+    "turrets": 4883,
+    "type": "lightTank"
+  },
+  {
+    "engines": 7173,
+    "guns": 772,
+    "radios": 775,
+    "suspensions": 34562,
+    "tank_id": 15105,
+    "tier": 3,
+    "turrets": 28931,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9045,
+    "guns": 21844,
+    "radios": 3159,
+    "suspensions": 9298,
+    "tank_id": 3921,
+    "tier": 8,
+    "turrets": 8531,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 23557,
+    "guns": 4612,
+    "radios": 519,
+    "suspensions": 35330,
+    "tank_id": 15361,
+    "tier": 2,
+    "turrets": 29443,
+    "type": "lightTank"
+  },
+  {
+    "engines": 25877,
+    "guns": 23572,
+    "radios": 2583,
+    "suspensions": 40210,
+    "tank_id": 16401,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 28933,
+    "guns": 35332,
+    "radios": 5127,
+    "suspensions": 44034,
+    "tank_id": 58881,
+    "tier": 8,
+    "turrets": 36867,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3381,
+    "guns": 4148,
+    "radios": 1847,
+    "suspensions": 3890,
+    "tank_id": 2353,
+    "tier": 2,
+    "turrets": 3891,
+    "type": "lightTank"
+  },
+  {
+    "engines": 34069,
+    "guns": 30996,
+    "radios": 3351,
+    "suspensions": 54034,
+    "tank_id": 19473,
+    "tier": 10,
+    "turrets": 46611,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 11589,
+    "guns": 13636,
+    "radios": 71,
+    "suspensions": 6722,
+    "tank_id": 3649,
+    "tier": 10,
+    "turrets": 5443,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1813,
+    "guns": 3604,
+    "radios": 2839,
+    "suspensions": 1554,
+    "tank_id": 785,
+    "tier": 2,
+    "turrets": 1299,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10069,
+    "guns": 3668,
+    "radios": 4183,
+    "suspensions": 11090,
+    "tank_id": 4945,
+    "tier": 4,
+    "turrets": 10835,
+    "type": "lightTank"
+  },
+  {
+    "engines": 3365,
+    "guns": 2084,
+    "radios": 551,
+    "suspensions": 2338,
+    "tank_id": 1057,
+    "tier": 5,
+    "turrets": 2339,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 277,
+    "guns": 276,
+    "radios": 279,
+    "suspensions": 42002,
+    "tank_id": 17425,
+    "tier": 4,
+    "turrets": 35347,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1029,
+    "guns": 7428,
+    "radios": 1031,
+    "suspensions": 23810,
+    "tank_id": 10497,
+    "tier": 6,
+    "turrets": 19203,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 14085,
+    "guns": 22532,
+    "radios": 5127,
+    "suspensions": 52738,
+    "tank_id": 49409,
+    "tier": 8,
+    "turrets": 45571,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 293,
+    "guns": 5924,
+    "radios": 3623,
+    "suspensions": 41762,
+    "tank_id": 18721,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 4149,
+    "guns": 4916,
+    "radios": 2615,
+    "suspensions": 5170,
+    "tank_id": 3121,
+    "tier": 4,
+    "turrets": 5171,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10245,
+    "guns": 2820,
+    "radios": 2055,
+    "suspensions": 1282,
+    "tank_id": 513,
+    "tier": 7,
+    "turrets": 1027,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 2325,
+    "guns": 7700,
+    "radios": 1559,
+    "suspensions": 3346,
+    "tank_id": 1809,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3413,
+    "guns": 7764,
+    "radios": 3159,
+    "suspensions": 13394,
+    "tank_id": 5969,
+    "tier": 8,
+    "turrets": 13139,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11589,
+    "guns": 16964,
+    "radios": 5703,
+    "suspensions": 30530,
+    "tank_id": 15425,
+    "tier": 10,
+    "turrets": 24899,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 27157,
+    "guns": 24340,
+    "radios": 5655,
+    "suspensions": 45586,
+    "tank_id": 18449,
+    "tier": 9,
+    "turrets": 38163,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6181,
+    "guns": 36,
+    "radios": 1063,
+    "suspensions": 6178,
+    "tank_id": 3105,
+    "tier": 4,
+    "turrets": [],
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5221,
+    "guns": 6244,
+    "radios": 2919,
+    "suspensions": 7522,
+    "tank_id": 52065,
+    "tier": 8,
+    "turrets": 7011,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 17701,
+    "guns": 31780,
+    "radios": 4391,
+    "suspensions": 46114,
+    "tank_id": 19745,
+    "tier": 7,
+    "turrets": 40739,
+    "type": "lightTank"
+  },
+  {
+    "engines": 19541,
+    "guns": 20820,
+    "radios": 5207,
+    "suspensions": 31314,
+    "tank_id": 7249,
+    "tier": 10,
+    "turrets": 26963,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 517,
+    "guns": 260,
+    "radios": 519,
+    "suspensions": 2306,
+    "tank_id": 1537,
+    "tier": 4,
+    "turrets": 2051,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20293,
+    "guns": 4932,
+    "radios": 2119,
+    "suspensions": 33346,
+    "tank_id": 5697,
+    "tier": 9,
+    "turrets": 27715,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4629,
+    "guns": 6164,
+    "radios": 279,
+    "suspensions": 5650,
+    "tank_id": 2833,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 11093,
+    "guns": 8020,
+    "radios": 4183,
+    "suspensions": 14930,
+    "tank_id": 6993,
+    "tier": 3,
+    "turrets": 14163,
+    "type": "lightTank"
+  },
+  {
+    "engines": 7013,
+    "guns": 7780,
+    "radios": 1639,
+    "suspensions": 10594,
+    "tank_id": 5217,
+    "tier": 7,
+    "turrets": 8803,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 293,
+    "guns": 5412,
+    "radios": 3623,
+    "suspensions": 8226,
+    "tank_id": 4129,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 65045,
+    "guns": 65556,
+    "radios": 65303,
+    "suspensions": 41234,
+    "tank_id": 16913,
+    "tier": 10,
+    "turrets": 34323,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 7941,
+    "guns": 16644,
+    "radios": 2567,
+    "suspensions": 14082,
+    "tank_id": 51457,
+    "tier": 5,
+    "turrets": 11523,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5685,
+    "guns": 3636,
+    "radios": 2103,
+    "suspensions": 9778,
+    "tank_id": 5425,
+    "tier": 10,
+    "turrets": 9523,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3189,
+    "guns": 2932,
+    "radios": 1143,
+    "suspensions": 2162,
+    "tank_id": 1137,
+    "tier": 5,
+    "turrets": 2419,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20485,
+    "guns": 7172,
+    "radios": 775,
+    "suspensions": 5122,
+    "tank_id": 2561,
+    "tier": 6,
+    "turrets": 4611,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 31749,
+    "guns": 38404,
+    "radios": 6407,
+    "suspensions": 52482,
+    "tank_id": 19201,
+    "tier": 10,
+    "turrets": 45315,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2437,
+    "guns": 2692,
+    "radios": 1159,
+    "suspensions": 4226,
+    "tank_id": 1153,
+    "tier": 5,
+    "turrets": 3203,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 805,
+    "guns": 23076,
+    "radios": 551,
+    "suspensions": 10786,
+    "tank_id": 5153,
+    "tier": 4,
+    "turrets": 9763,
+    "type": "lightTank"
+  },
+  {
+    "engines": 1797,
+    "guns": 40964,
+    "radios": 519,
+    "suspensions": 21250,
+    "tank_id": 9473,
+    "tier": 5,
+    "turrets": 17155,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9989,
+    "guns": 18436,
+    "radios": 2567,
+    "suspensions": 16386,
+    "tank_id": 52481,
+    "tier": 4,
+    "turrets": 13315,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5205,
+    "guns": 4180,
+    "radios": 4183,
+    "suspensions": 4178,
+    "tank_id": 1617,
+    "tier": 4,
+    "turrets": [],
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3077,
+    "guns": 9476,
+    "radios": 775,
+    "suspensions": 7170,
+    "tank_id": 3585,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 1605,
+    "guns": 7236,
+    "radios": 327,
+    "suspensions": 13890,
+    "tank_id": 7745,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 21,
+    "guns": 5396,
+    "radios": 535,
+    "suspensions": 10002,
+    "tank_id": 4881,
+    "tier": 3,
+    "turrets": 7955,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15141,
+    "guns": 23588,
+    "radios": 3879,
+    "suspensions": 33058,
+    "tank_id": 55073,
+    "tier": 2,
+    "turrets": 27939,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15189,
+    "guns": 14164,
+    "radios": 4183,
+    "suspensions": 19794,
+    "tank_id": 9041,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 293,
+    "guns": 8484,
+    "radios": 1063,
+    "suspensions": 41250,
+    "tank_id": 6177,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 32261,
+    "guns": 40196,
+    "radios": 1287,
+    "suspensions": 53506,
+    "tank_id": 19457,
+    "tier": 7,
+    "turrets": 46083,
+    "type": "lightTank"
+  },
+  {
+    "engines": 12805,
+    "guns": 18436,
+    "radios": 4615,
+    "suspensions": 20482,
+    "tank_id": 53505,
+    "tier": 3,
+    "turrets": 16387,
+    "type": "lightTank"
+  },
+  {
+    "engines": 11829,
+    "guns": 13108,
+    "radios": 823,
+    "suspensions": 15666,
+    "tank_id": 7473,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 4869,
+    "guns": 4612,
+    "radios": 519,
+    "suspensions": 9474,
+    "tank_id": 4609,
+    "tier": 2,
+    "turrets": 7939,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10277,
+    "guns": 24612,
+    "radios": 39,
+    "suspensions": 36898,
+    "tank_id": 56097,
+    "tier": 6,
+    "turrets": 31523,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6229,
+    "guns": 12116,
+    "radios": 3159,
+    "suspensions": 21330,
+    "tank_id": 10065,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 9253,
+    "guns": 10532,
+    "radios": 551,
+    "suspensions": 15138,
+    "tank_id": 7201,
+    "tier": 6,
+    "turrets": 13603,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 13349,
+    "guns": 15908,
+    "radios": 4903,
+    "suspensions": 24354,
+    "tank_id": 11809,
+    "tier": 7,
+    "turrets": 20771,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 12341,
+    "guns": 14900,
+    "radios": 2103,
+    "suspensions": 17458,
+    "tank_id": 8497,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 6421,
+    "guns": 9492,
+    "radios": 3351,
+    "suspensions": 14610,
+    "tank_id": 6929,
+    "tier": 10,
+    "turrets": 11539,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10069,
+    "guns": 16212,
+    "radios": 2135,
+    "suspensions": 23378,
+    "tank_id": 11089,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 9765,
+    "guns": 11556,
+    "radios": 2087,
+    "suspensions": 16930,
+    "tank_id": 8225,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 5669,
+    "guns": 20260,
+    "radios": 4391,
+    "suspensions": 29986,
+    "tank_id": 15393,
+    "tier": 9,
+    "turrets": 25635,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20485,
+    "guns": 7172,
+    "radios": 775,
+    "suspensions": 13570,
+    "tank_id": 6657,
+    "tier": 7,
+    "turrets": 11011,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4421,
+    "guns": 11332,
+    "radios": 2119,
+    "suspensions": 17986,
+    "tank_id": 10817,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 19733,
+    "guns": 10260,
+    "radios": 535,
+    "suspensions": 18962,
+    "tank_id": 7953,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12117,
+    "guns": 16468,
+    "radios": 3159,
+    "suspensions": 25426,
+    "tank_id": 12113,
+    "tier": 8,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 14853,
+    "guns": 22788,
+    "radios": 5895,
+    "suspensions": 25346,
+    "tank_id": 54529,
+    "tier": 2,
+    "turrets": 20739,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5157,
+    "guns": 11556,
+    "radios": 551,
+    "suspensions": 19746,
+    "tank_id": 9249,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8069,
+    "guns": 6020,
+    "radios": 1159,
+    "suspensions": 2434,
+    "tank_id": 2945,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 25349,
+    "guns": 18436,
+    "radios": 4359,
+    "suspensions": 37890,
+    "tank_id": 56577,
+    "tier": 3,
+    "turrets": 31747,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6165,
+    "guns": 3604,
+    "radios": 535,
+    "suspensions": 6930,
+    "tank_id": 3345,
+    "tier": 3,
+    "turrets": 5395,
+    "type": "lightTank"
+  },
+  {
+    "engines": 4869,
+    "guns": 10756,
+    "radios": 519,
+    "suspensions": 16642,
+    "tank_id": 7681,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 11589,
+    "guns": 12612,
+    "radios": 71,
+    "suspensions": 20034,
+    "tank_id": 11841,
+    "tier": 10,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 9749,
+    "guns": 12820,
+    "radios": 535,
+    "suspensions": 21266,
+    "tank_id": 8977,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 24357,
+    "guns": 30756,
+    "radios": 4903,
+    "suspensions": 44834,
+    "tank_id": 59169,
+    "tier": 8,
+    "turrets": 39459,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3413,
+    "guns": 22356,
+    "radios": 3159,
+    "suspensions": 28498,
+    "tank_id": 13137,
+    "tier": 9,
+    "turrets": 24659,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 19749,
+    "guns": 11044,
+    "radios": 3623,
+    "suspensions": 15394,
+    "tank_id": 7457,
+    "tier": 8,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 805,
+    "guns": 9508,
+    "radios": 3623,
+    "suspensions": 21538,
+    "tank_id": 10273,
+    "tier": 4,
+    "turrets": 18467,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 9525,
+    "guns": 12340,
+    "radios": 2359,
+    "suspensions": 13874,
+    "tank_id": 6705,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 645,
+    "guns": 1412,
+    "radios": 647,
+    "suspensions": 1154,
+    "tank_id": 385,
+    "tier": 2,
+    "turrets": 899,
+    "type": "lightTank"
+  },
+  {
+    "engines": 3125,
+    "guns": 1588,
+    "radios": 1335,
+    "suspensions": 1842,
+    "tank_id": 1329,
+    "tier": 1,
+    "turrets": 1843,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9221,
+    "guns": 20740,
+    "radios": 2823,
+    "suspensions": 19202,
+    "tank_id": 8705,
+    "tier": 10,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 35605,
+    "guns": 31508,
+    "radios": 2071,
+    "suspensions": 23826,
+    "tank_id": 10001,
+    "tier": 6,
+    "turrets": 19475,
+    "type": "lightTank"
+  },
+  {
+    "engines": 18693,
+    "guns": 26884,
+    "radios": 6151,
+    "suspensions": 38914,
+    "tank_id": 17153,
+    "tier": 10,
+    "turrets": 32515,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3413,
+    "guns": 22100,
+    "radios": 3159,
+    "suspensions": 29778,
+    "tank_id": 14161,
+    "tier": 7,
+    "turrets": 25683,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8725,
+    "guns": 11028,
+    "radios": 3863,
+    "suspensions": 19474,
+    "tank_id": 54033,
+    "tier": 5,
+    "turrets": 15379,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 9765,
+    "guns": 11556,
+    "radios": 2087,
+    "suspensions": 23586,
+    "tank_id": 11297,
+    "tier": 8,
+    "turrets": 20003,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 25605,
+    "guns": 33796,
+    "radios": 5127,
+    "suspensions": 43778,
+    "tank_id": 58625,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 15381,
+    "guns": 18708,
+    "radios": 4375,
+    "suspensions": 30482,
+    "tank_id": 57361,
+    "tier": 6,
+    "turrets": 24851,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14917,
+    "guns": 18756,
+    "radios": 5191,
+    "suspensions": 33090,
+    "tank_id": 62785,
+    "tier": 8,
+    "turrets": 27459,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 2693,
+    "guns": 3204,
+    "radios": 1159,
+    "suspensions": 5250,
+    "tank_id": 1409,
+    "tier": 6,
+    "turrets": 4227,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3413,
+    "guns": 7764,
+    "radios": 3159,
+    "suspensions": 12626,
+    "tank_id": 5457,
+    "tier": 7,
+    "turrets": 11859,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 23621,
+    "guns": 14916,
+    "radios": 9031,
+    "suspensions": 23618,
+    "tank_id": 13889,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 26133,
+    "guns": 15124,
+    "radios": 279,
+    "suspensions": 26642,
+    "tank_id": 11025,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 25861,
+    "guns": 26884,
+    "radios": 6151,
+    "suspensions": 38402,
+    "tank_id": 16897,
+    "tier": 10,
+    "turrets": 32259,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4197,
+    "guns": 5476,
+    "radios": 2407,
+    "suspensions": 6754,
+    "tank_id": 3425,
+    "tier": 9,
+    "turrets": 6499,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 27909,
+    "guns": 34820,
+    "radios": 5127,
+    "suspensions": 45058,
+    "tank_id": 59649,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 16453,
+    "guns": 16196,
+    "radios": 5191,
+    "suspensions": 28482,
+    "tank_id": 63809,
+    "tier": 7,
+    "turrets": 22851,
+    "type": "lightTank"
+  },
+  {
+    "engines": 7045,
+    "guns": 4740,
+    "radios": 903,
+    "suspensions": 9090,
+    "tank_id": 2433,
+    "tier": 10,
+    "turrets": 6531,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3189,
+    "guns": 2932,
+    "radios": 1143,
+    "suspensions": 2930,
+    "tank_id": 1393,
+    "tier": 6,
+    "turrets": 2675,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 28181,
+    "guns": 25364,
+    "radios": 6935,
+    "suspensions": 46866,
+    "tank_id": 60945,
+    "tier": 9,
+    "turrets": 39443,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 13125,
+    "guns": 17220,
+    "radios": 6727,
+    "suspensions": 29762,
+    "tank_id": 14913,
+    "tier": 4,
+    "turrets": 23875,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1589,
+    "guns": 1332,
+    "radios": 823,
+    "suspensions": 1330,
+    "tank_id": 1073,
+    "tier": 7,
+    "turrets": 1075,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11285,
+    "guns": 18196,
+    "radios": 3351,
+    "suspensions": 28434,
+    "tank_id": 12049,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 13093,
+    "guns": 19492,
+    "radios": 2855,
+    "suspensions": 26402,
+    "tank_id": 13089,
+    "tier": 10,
+    "turrets": 22563,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 10117,
+    "guns": 9860,
+    "radios": 135,
+    "suspensions": 10114,
+    "tank_id": 52609,
+    "tier": 8,
+    "turrets": 7555,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14885,
+    "guns": 17700,
+    "radios": 4903,
+    "suspensions": 26658,
+    "tank_id": 13345,
+    "tier": 8,
+    "turrets": 22819,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6981,
+    "guns": 6468,
+    "radios": 1095,
+    "suspensions": 8002,
+    "tank_id": 6721,
+    "tier": 5,
+    "turrets": 9795,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10117,
+    "guns": 9860,
+    "radios": 135,
+    "suspensions": 9858,
+    "tank_id": 52353,
+    "tier": 8,
+    "turrets": 7299,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 16677,
+    "guns": 5412,
+    "radios": 15655,
+    "suspensions": 32802,
+    "tank_id": 16417,
+    "tier": 6,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 4229,
+    "guns": 7044,
+    "radios": 2695,
+    "suspensions": 4482,
+    "tank_id": 3457,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 29717,
+    "guns": 26388,
+    "radios": 5399,
+    "suspensions": 48402,
+    "tank_id": 61969,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 10821,
+    "guns": 1092,
+    "radios": 6471,
+    "suspensions": 31554,
+    "tank_id": 15937,
+    "tier": 2,
+    "turrets": 25923,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6965,
+    "guns": 564,
+    "radios": 55,
+    "suspensions": 10290,
+    "tank_id": 64561,
+    "tier": 8,
+    "turrets": 10035,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 4165,
+    "guns": 3140,
+    "radios": 4167,
+    "suspensions": 4162,
+    "tank_id": 2369,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 54277,
+    "guns": 30468,
+    "radios": 7431,
+    "suspensions": 47362,
+    "tank_id": 61697,
+    "tier": 10,
+    "turrets": 40195,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 8581,
+    "guns": 8836,
+    "radios": 2183,
+    "suspensions": 8578,
+    "tank_id": 4481,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 15893,
+    "guns": 24596,
+    "radios": 4375,
+    "suspensions": 50962,
+    "tank_id": 62993,
+    "tier": 7,
+    "turrets": 43539,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8773,
+    "guns": 22852,
+    "radios": 2887,
+    "suspensions": 35650,
+    "tank_id": 16961,
+    "tier": 10,
+    "turrets": 29763,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 19733,
+    "guns": 788,
+    "radios": 535,
+    "suspensions": 35858,
+    "tank_id": 14097,
+    "tier": 6,
+    "turrets": 29715,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2661,
+    "guns": 2660,
+    "radios": 1639,
+    "suspensions": 5730,
+    "tank_id": 2913,
+    "tier": 4,
+    "turrets": 5475,
+    "type": "lightTank"
+  },
+  {
+    "engines": 53,
+    "guns": 52,
+    "radios": 55,
+    "suspensions": 50,
+    "tank_id": 49,
+    "tier": 8,
+    "turrets": 51,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1109,
+    "guns": 1620,
+    "radios": 1111,
+    "suspensions": 1618,
+    "tank_id": 337,
+    "tier": 2,
+    "turrets": 1875,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 16133,
+    "guns": 3844,
+    "radios": 2055,
+    "suspensions": 26882,
+    "tank_id": 11521,
+    "tier": 9,
+    "turrets": 22019,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10821,
+    "guns": 2372,
+    "radios": 327,
+    "suspensions": 2626,
+    "tank_id": 1345,
+    "tier": 2,
+    "turrets": 2115,
+    "type": "lightTank"
+  },
+  {
+    "engines": 20741,
+    "guns": 26884,
+    "radios": 6407,
+    "suspensions": 31490,
+    "tank_id": 13825,
+    "tier": 10,
+    "turrets": 26115,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7173,
+    "guns": 31236,
+    "radios": 1031,
+    "suspensions": 37122,
+    "tank_id": 16385,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 23317,
+    "guns": 8468,
+    "radios": 279,
+    "suspensions": 37394,
+    "tank_id": 15121,
+    "tier": 2,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 26629,
+    "guns": 39940,
+    "radios": 4871,
+    "suspensions": 41986,
+    "tank_id": 18177,
+    "tier": 9,
+    "turrets": 35075,
+    "type": "lightTank"
+  },
+  {
+    "engines": 7781,
+    "guns": 9572,
+    "radios": 3687,
+    "suspensions": 8034,
+    "tank_id": 3937,
+    "tier": 10,
+    "turrets": 7523,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 15381,
+    "guns": 11028,
+    "radios": 4375,
+    "suspensions": 25874,
+    "tank_id": 55057,
+    "tier": 5,
+    "turrets": 21267,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14165,
+    "guns": 20052,
+    "radios": 599,
+    "suspensions": 31058,
+    "tank_id": 55889,
+    "tier": 6,
+    "turrets": 26707,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 17493,
+    "guns": 17492,
+    "radios": 5463,
+    "suspensions": 26194,
+    "tank_id": 54865,
+    "tier": 2,
+    "turrets": 22355,
+    "type": "lightTank"
+  },
+  {
+    "engines": 9045,
+    "guns": 10580,
+    "radios": 3159,
+    "suspensions": 338,
+    "tank_id": 52561,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8277,
+    "guns": 6484,
+    "radios": 2135,
+    "suspensions": 8786,
+    "tank_id": 3665,
+    "tier": 6,
+    "turrets": 8275,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 25877,
+    "guns": 21780,
+    "radios": 6167,
+    "suspensions": 39698,
+    "tank_id": 16145,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 7461,
+    "guns": 2084,
+    "radios": 1831,
+    "suspensions": 1826,
+    "tank_id": 801,
+    "tier": 6,
+    "turrets": 1827,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 7013,
+    "guns": 7780,
+    "radios": 1895,
+    "suspensions": 10082,
+    "tank_id": 4961,
+    "tier": 8,
+    "turrets": 8547,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 517,
+    "guns": 14084,
+    "radios": 1031,
+    "suspensions": 11522,
+    "tank_id": 5633,
+    "tier": 6,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 34053,
+    "guns": 41476,
+    "radios": 8199,
+    "suspensions": 54530,
+    "tank_id": 48129,
+    "tier": 6,
+    "turrets": 47363,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 773,
+    "guns": 33028,
+    "radios": 775,
+    "suspensions": 5890,
+    "tank_id": 18689,
+    "tier": 5,
+    "turrets": 4867,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5957,
+    "guns": 5188,
+    "radios": 2375,
+    "suspensions": 6210,
+    "tank_id": 3393,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 21,
+    "guns": 7700,
+    "radios": 535,
+    "suspensions": 43794,
+    "tank_id": 17937,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 20245,
+    "guns": 1300,
+    "radios": 535,
+    "suspensions": 1298,
+    "tank_id": 529,
+    "tier": 7,
+    "turrets": 1043,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 7253,
+    "guns": 3924,
+    "radios": 2135,
+    "suspensions": 10578,
+    "tank_id": 4689,
+    "tier": 6,
+    "turrets": 10323,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 277,
+    "guns": 7956,
+    "radios": 279,
+    "suspensions": 41746,
+    "tank_id": 17169,
+    "tier": 3,
+    "turrets": 34835,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4645,
+    "guns": 292,
+    "radios": 1063,
+    "suspensions": 3874,
+    "tank_id": 1825,
+    "tier": 2,
+    "turrets": 3619,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5733,
+    "guns": 1124,
+    "radios": 615,
+    "suspensions": 11874,
+    "tank_id": 5985,
+    "tier": 2,
+    "turrets": 9827,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3877,
+    "guns": 2340,
+    "radios": 551,
+    "suspensions": 3362,
+    "tank_id": 1569,
+    "tier": 7,
+    "turrets": 3107,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 293,
+    "guns": 28196,
+    "radios": 1063,
+    "suspensions": 39458,
+    "tank_id": 18465,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 5,
+    "guns": 1796,
+    "radios": 775,
+    "suspensions": 770,
+    "tank_id": 257,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 16469,
+    "guns": 15700,
+    "radios": 599,
+    "suspensions": 22610,
+    "tank_id": 54609,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 2101,
+    "guns": 1332,
+    "radios": 3895,
+    "suspensions": 5938,
+    "tank_id": 3633,
+    "tier": 7,
+    "turrets": 6195,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 21,
+    "guns": 5140,
+    "radios": 535,
+    "suspensions": 3858,
+    "tank_id": 1553,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8741,
+    "guns": 7460,
+    "radios": 2599,
+    "suspensions": 5154,
+    "tank_id": 51745,
+    "tier": 5,
+    "turrets": 4899,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3413,
+    "guns": 8276,
+    "radios": 3159,
+    "suspensions": 13138,
+    "tank_id": 5713,
+    "tier": 9,
+    "turrets": 12371,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 277,
+    "guns": 532,
+    "radios": 535,
+    "suspensions": 44818,
+    "tank_id": 18193,
+    "tier": 5,
+    "turrets": 37395,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10309,
+    "guns": 10308,
+    "radios": 2375,
+    "suspensions": 16450,
+    "tank_id": 9793,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 6453,
+    "guns": 6708,
+    "radios": 2103,
+    "suspensions": 6962,
+    "tank_id": 4145,
+    "tier": 10,
+    "turrets": 6963,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7013,
+    "guns": 7524,
+    "radios": 871,
+    "suspensions": 11618,
+    "tank_id": 5729,
+    "tier": 5,
+    "turrets": 9315,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8725,
+    "guns": 11028,
+    "radios": 3863,
+    "suspensions": 13074,
+    "tank_id": 51473,
+    "tier": 5,
+    "turrets": 10259,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 18261,
+    "guns": 18516,
+    "radios": 5719,
+    "suspensions": 27986,
+    "tank_id": 55633,
+    "tier": 8,
+    "turrets": 24403,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 597,
+    "guns": 596,
+    "radios": 343,
+    "suspensions": 594,
+    "tank_id": 52817,
+    "tier": 4,
+    "turrets": 595,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 25109,
+    "guns": 20,
+    "radios": 535,
+    "suspensions": 5138,
+    "tank_id": 2577,
+    "tier": 5,
+    "turrets": 4371,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10789,
+    "guns": 13092,
+    "radios": 4135,
+    "suspensions": 18722,
+    "tank_id": 52769,
+    "tier": 3,
+    "turrets": 15651,
+    "type": "lightTank"
+  },
+  {
+    "engines": 32533,
+    "guns": 28948,
+    "radios": 3351,
+    "suspensions": 51986,
+    "tank_id": 19217,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 37,
+    "guns": 2340,
+    "radios": 2087,
+    "suspensions": 7970,
+    "tank_id": 3873,
+    "tier": 7,
+    "turrets": 7203,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 1893,
+    "guns": 3684,
+    "radios": 1639,
+    "suspensions": 3426,
+    "tank_id": 1633,
+    "tier": 4,
+    "turrets": 3171,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7429,
+    "guns": 18948,
+    "radios": 4359,
+    "suspensions": 13826,
+    "tank_id": 51201,
+    "tier": 5,
+    "turrets": 11267,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 5429,
+    "guns": 1076,
+    "radios": 3639,
+    "suspensions": 9266,
+    "tank_id": 5169,
+    "tier": 6,
+    "turrets": 8755,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 33813,
+    "guns": 10516,
+    "radios": 535,
+    "suspensions": 54290,
+    "tank_id": 19729,
+    "tier": 8,
+    "turrets": 46867,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3669,
+    "guns": 2388,
+    "radios": 4183,
+    "suspensions": 3666,
+    "tank_id": 1361,
+    "tier": 3,
+    "turrets": 3923,
+    "type": "lightTank"
+  },
+  {
+    "engines": 1029,
+    "guns": 516,
+    "radios": 775,
+    "suspensions": 28930,
+    "tank_id": 12545,
+    "tier": 7,
+    "turrets": 23811,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 773,
+    "guns": 7940,
+    "radios": 1031,
+    "suspensions": 4866,
+    "tank_id": 2305,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 22341,
+    "guns": 68,
+    "radios": 2119,
+    "suspensions": 11842,
+    "tank_id": 6465,
+    "tier": 6,
+    "turrets": 9539,
+    "type": "lightTank"
+  },
+  {
+    "engines": 19733,
+    "guns": 7444,
+    "radios": 535,
+    "suspensions": 7698,
+    "tank_id": 3857,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3957,
+    "guns": 3444,
+    "radios": 1911,
+    "suspensions": 3442,
+    "tank_id": 1649,
+    "tier": 7,
+    "turrets": 3187,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7173,
+    "guns": 772,
+    "radios": 775,
+    "suspensions": 35842,
+    "tank_id": 15873,
+    "tier": 4,
+    "turrets": 30211,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15909,
+    "guns": 18980,
+    "radios": 16167,
+    "suspensions": 27938,
+    "tank_id": 53793,
+    "tier": 8,
+    "turrets": 24099,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 14421,
+    "guns": 1364,
+    "radios": 4183,
+    "suspensions": 16466,
+    "tank_id": 7761,
+    "tier": 2,
+    "turrets": 15699,
+    "type": "lightTank"
+  },
+  {
+    "engines": 10581,
+    "guns": 852,
+    "radios": 599,
+    "suspensions": 11602,
+    "tank_id": 53585,
+    "tier": 5,
+    "turrets": 11091,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 35093,
+    "guns": 31252,
+    "radios": 5655,
+    "suspensions": 55570,
+    "tank_id": 20241,
+    "tier": 8,
+    "turrets": 47891,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6181,
+    "guns": 804,
+    "radios": 1063,
+    "suspensions": 10018,
+    "tank_id": 4897,
+    "tier": 3,
+    "turrets": 8739,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 5253,
+    "guns": 7812,
+    "radios": 2695,
+    "suspensions": 5762,
+    "tank_id": 3713,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 11013,
+    "guns": 18436,
+    "radios": 4615,
+    "suspensions": 16130,
+    "tank_id": 52225,
+    "tier": 3,
+    "turrets": 13059,
+    "type": "lightTank"
+  },
+  {
+    "engines": 5685,
+    "guns": 11572,
+    "radios": 2103,
+    "suspensions": 13106,
+    "tank_id": 6193,
+    "tier": 10,
+    "turrets": 12595,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3845,
+    "guns": 5892,
+    "radios": 263,
+    "suspensions": 6914,
+    "tank_id": 3329,
+    "tier": 1,
+    "turrets": 6147,
+    "type": "lightTank"
+  },
+  {
+    "engines": 15429,
+    "guns": 8004,
+    "radios": 2119,
+    "suspensions": 13378,
+    "tank_id": 7489,
+    "tier": 8,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 22037,
+    "guns": 6164,
+    "radios": 535,
+    "suspensions": 9490,
+    "tank_id": 4625,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 14421,
+    "guns": 13140,
+    "radios": 2135,
+    "suspensions": 19282,
+    "tank_id": 8785,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 5157,
+    "guns": 2340,
+    "radios": 2087,
+    "suspensions": 12066,
+    "tank_id": 5921,
+    "tier": 8,
+    "turrets": 11299,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 12549,
+    "guns": 20996,
+    "radios": 5127,
+    "suspensions": 20226,
+    "tank_id": 53249,
+    "tier": 8,
+    "turrets": 16131,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 10293,
+    "guns": 12852,
+    "radios": 823,
+    "suspensions": 14898,
+    "tank_id": 7217,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 10773,
+    "guns": 13588,
+    "radios": 3863,
+    "suspensions": 22546,
+    "tank_id": 54545,
+    "tier": 5,
+    "turrets": 17683,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 21781,
+    "guns": 6164,
+    "radios": 2071,
+    "suspensions": 11538,
+    "tank_id": 5649,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 15909,
+    "guns": 24100,
+    "radios": 16167,
+    "suspensions": 34850,
+    "tank_id": 55841,
+    "tier": 10,
+    "turrets": 29731,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7253,
+    "guns": 14676,
+    "radios": 2135,
+    "suspensions": 20562,
+    "tank_id": 9809,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3365,
+    "guns": 10020,
+    "radios": 551,
+    "suspensions": 14114,
+    "tank_id": 6945,
+    "tier": 5,
+    "turrets": 12579,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 13829,
+    "guns": 22276,
+    "radios": 7687,
+    "suspensions": 24322,
+    "tank_id": 54273,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12597,
+    "guns": 14900,
+    "radios": 823,
+    "suspensions": 17202,
+    "tank_id": 8241,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3365,
+    "guns": 2084,
+    "radios": 551,
+    "suspensions": 2850,
+    "tank_id": 1313,
+    "tier": 6,
+    "turrets": 2851,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 22805,
+    "guns": 16148,
+    "radios": 3863,
+    "suspensions": 28690,
+    "tank_id": 55569,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3349,
+    "guns": 9236,
+    "radios": 279,
+    "suspensions": 14098,
+    "tank_id": 6673,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 21541,
+    "guns": 24100,
+    "radios": 16167,
+    "suspensions": 40226,
+    "tank_id": 56865,
+    "tier": 10,
+    "turrets": 34595,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1109,
+    "guns": 6740,
+    "radios": 2135,
+    "suspensions": 23122,
+    "tank_id": 10833,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 19749,
+    "guns": 5668,
+    "radios": 3623,
+    "suspensions": 16674,
+    "tank_id": 7969,
+    "tier": 7,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 21509,
+    "guns": 27908,
+    "radios": 6663,
+    "suspensions": 32002,
+    "tank_id": 55297,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 4613,
+    "guns": 8964,
+    "radios": 1287,
+    "suspensions": 8706,
+    "tank_id": 4353,
+    "tier": 8,
+    "turrets": 7427,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6725,
+    "guns": 6468,
+    "radios": 6727,
+    "suspensions": 8258,
+    "tank_id": 4417,
+    "tier": 5,
+    "turrets": 6723,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 7173,
+    "guns": 15620,
+    "radios": 775,
+    "suspensions": 12802,
+    "tank_id": 6401,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8213,
+    "guns": 7444,
+    "radios": 2071,
+    "suspensions": 17170,
+    "tank_id": 7697,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 23589,
+    "guns": 30244,
+    "radios": 16167,
+    "suspensions": 43554,
+    "tank_id": 57889,
+    "tier": 8,
+    "turrets": 38179,
+    "type": "lightTank"
+  },
+  {
+    "engines": 16981,
+    "guns": 16212,
+    "radios": 3159,
+    "suspensions": 24914,
+    "tank_id": 11857,
+    "tier": 6,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 8997,
+    "guns": 2596,
+    "radios": 2087,
+    "suspensions": 19234,
+    "tank_id": 8993,
+    "tier": 9,
+    "turrets": 15907,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11269,
+    "guns": 21508,
+    "radios": 1287,
+    "suspensions": 27650,
+    "tank_id": 12033,
+    "tier": 9,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 645,
+    "guns": 1412,
+    "radios": 1159,
+    "suspensions": 2178,
+    "tank_id": 641,
+    "tier": 3,
+    "turrets": 1923,
+    "type": "lightTank"
+  },
+  {
+    "engines": 6485,
+    "guns": 2900,
+    "radios": 1111,
+    "suspensions": 5970,
+    "tank_id": 2385,
+    "tier": 3,
+    "turrets": 5459,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 19461,
+    "guns": 26372,
+    "radios": 6151,
+    "suspensions": 30978,
+    "tank_id": 13569,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 15893,
+    "guns": 17940,
+    "radios": 3863,
+    "suspensions": 30994,
+    "tank_id": 57617,
+    "tier": 7,
+    "turrets": 25363,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6981,
+    "guns": 10564,
+    "radios": 1095,
+    "suspensions": 19522,
+    "tank_id": 11585,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 3349,
+    "guns": 8468,
+    "radios": 535,
+    "suspensions": 12306,
+    "tank_id": 5905,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 20245,
+    "guns": 12564,
+    "radios": 535,
+    "suspensions": 20754,
+    "tank_id": 8721,
+    "tier": 9,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 24357,
+    "guns": 30756,
+    "radios": 4903,
+    "suspensions": 44578,
+    "tank_id": 58913,
+    "tier": 8,
+    "turrets": 39203,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8277,
+    "guns": 3924,
+    "radios": 2135,
+    "suspensions": 27474,
+    "tank_id": 12881,
+    "tier": 5,
+    "turrets": 23891,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 3365,
+    "guns": 2084,
+    "radios": 551,
+    "suspensions": 21026,
+    "tank_id": 10017,
+    "tier": 6,
+    "turrets": 17699,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 20261,
+    "guns": 22308,
+    "radios": 15655,
+    "suspensions": 32290,
+    "tank_id": 16161,
+    "tier": 9,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 15125,
+    "guns": 17684,
+    "radios": 4375,
+    "suspensions": 30226,
+    "tank_id": 57105,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 9013,
+    "guns": 12084,
+    "radios": 1847,
+    "suspensions": 13618,
+    "tank_id": 6449,
+    "tier": 2,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 17173,
+    "guns": 21012,
+    "radios": 3351,
+    "suspensions": 34834,
+    "tank_id": 58641,
+    "tier": 10,
+    "turrets": 28947,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 27925,
+    "guns": 25108,
+    "radios": 791,
+    "suspensions": 46610,
+    "tank_id": 60433,
+    "tier": 2,
+    "turrets": 39187,
+    "type": "lightTank"
+  },
+  {
+    "engines": 12597,
+    "guns": 14644,
+    "radios": 823,
+    "suspensions": 16434,
+    "tank_id": 7985,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 24341,
+    "guns": 2324,
+    "radios": 535,
+    "suspensions": 23314,
+    "tank_id": 9745,
+    "tier": 9,
+    "turrets": 18963,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 12373,
+    "guns": 13908,
+    "radios": 5207,
+    "suspensions": 29266,
+    "tank_id": 13905,
+    "tier": 10,
+    "turrets": 25171,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 5157,
+    "guns": 11300,
+    "radios": 551,
+    "suspensions": 23074,
+    "tank_id": 11041,
+    "tier": 7,
+    "turrets": 19491,
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 4933,
+    "guns": 2372,
+    "radios": 583,
+    "suspensions": 11074,
+    "tank_id": 5953,
+    "tier": 3,
+    "turrets": 8771,
+    "type": "lightTank"
+  },
+  {
+    "engines": 27397,
+    "guns": 33540,
+    "radios": 2823,
+    "suspensions": 43522,
+    "tank_id": 58369,
+    "tier": 10,
+    "turrets": 36355,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 21061,
+    "guns": 19780,
+    "radios": 8007,
+    "suspensions": 36162,
+    "tank_id": 62529,
+    "tier": 8,
+    "turrets": 30275,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 22549,
+    "guns": 21268,
+    "radios": 791,
+    "suspensions": 43026,
+    "tank_id": 59665,
+    "tier": 3,
+    "turrets": 36115,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 10069,
+    "guns": 11604,
+    "radios": 4183,
+    "suspensions": 17490,
+    "tank_id": 8017,
+    "tier": 3,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12053,
+    "guns": 1300,
+    "radios": 2071,
+    "suspensions": 25362,
+    "tank_id": 10769,
+    "tier": 7,
+    "turrets": 20755,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 17701,
+    "guns": 31780,
+    "radios": 4391,
+    "suspensions": 30242,
+    "tank_id": 15649,
+    "tier": 7,
+    "turrets": 25891,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2917,
+    "guns": 4196,
+    "radios": 1895,
+    "suspensions": 3938,
+    "tank_id": 1889,
+    "tier": 6,
+    "turrets": 3683,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 28165,
+    "guns": 34564,
+    "radios": 5639,
+    "suspensions": 44802,
+    "tank_id": 59393,
+    "tier": 6,
+    "turrets": 37635,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 16709,
+    "guns": 16452,
+    "radios": 5191,
+    "suspensions": 28738,
+    "tank_id": 63553,
+    "tier": 8,
+    "turrets": 23107,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 15381,
+    "guns": 24852,
+    "radios": 2327,
+    "suspensions": 46098,
+    "tank_id": 60689,
+    "tier": 5,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 24869,
+    "guns": 26148,
+    "radios": 17959,
+    "suspensions": 45346,
+    "tank_id": 19489,
+    "tier": 10,
+    "turrets": 39971,
+    "type": "lightTank"
+  },
+  {
+    "engines": 8261,
+    "guns": 15684,
+    "radios": 2119,
+    "suspensions": 25410,
+    "tank_id": 14657,
+    "tier": 4,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 4213,
+    "guns": 3700,
+    "radios": 1143,
+    "suspensions": 3954,
+    "tank_id": 1905,
+    "tier": 8,
+    "turrets": 3699,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 21269,
+    "guns": 5140,
+    "radios": 6167,
+    "suspensions": 28178,
+    "tank_id": 11793,
+    "tier": 6,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 12373,
+    "guns": 22868,
+    "radios": 5207,
+    "suspensions": 33362,
+    "tank_id": 15953,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 8501,
+    "guns": 11060,
+    "radios": 55,
+    "suspensions": 12594,
+    "tank_id": 63281,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 9861,
+    "guns": 9604,
+    "radios": 903,
+    "suspensions": 9602,
+    "tank_id": 52097,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 5509,
+    "guns": 7812,
+    "radios": 2695,
+    "suspensions": 6786,
+    "tank_id": 3969,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 29189,
+    "guns": 35332,
+    "radios": 2823,
+    "suspensions": 46082,
+    "tank_id": 60417,
+    "tier": 8,
+    "turrets": 38915,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 23109,
+    "guns": 22084,
+    "radios": 5191,
+    "suspensions": 37186,
+    "tank_id": 61761,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 645,
+    "guns": 9348,
+    "radios": 1159,
+    "suspensions": 3458,
+    "tank_id": 3201,
+    "tier": 4,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 29461,
+    "guns": 14868,
+    "radios": 3863,
+    "suspensions": 48146,
+    "tank_id": 61713,
+    "tier": 7,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 17477,
+    "guns": 4932,
+    "radios": 5959,
+    "suspensions": 30786,
+    "tank_id": 15681,
+    "tier": 9,
+    "turrets": 25411,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4629,
+    "guns": 2580,
+    "radios": 535,
+    "suspensions": 33042,
+    "tank_id": 12817,
+    "tier": 2,
+    "turrets": 27155,
+    "type": "lightTank"
+  },
+  {
+    "engines": 16165,
+    "guns": 18724,
+    "radios": 14119,
+    "suspensions": 27682,
+    "tank_id": 14113,
+    "tier": 10,
+    "turrets": 23843,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 29445,
+    "guns": 36356,
+    "radios": 4615,
+    "suspensions": 47106,
+    "tank_id": 61441,
+    "tier": 4,
+    "turrets": 39939,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 9093,
+    "guns": 8580,
+    "radios": 2183,
+    "suspensions": 7554,
+    "tank_id": 4225,
+    "tier": 8,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 31509,
+    "guns": 27924,
+    "radios": 4119,
+    "suspensions": 49682,
+    "tank_id": 62737,
+    "tier": 8,
+    "turrets": 42259,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 20805,
+    "guns": 22596,
+    "radios": 2119,
+    "suspensions": 35394,
+    "tank_id": 16705,
+    "tier": 9,
+    "turrets": 29507,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 101,
+    "guns": 100,
+    "radios": 103,
+    "suspensions": 98,
+    "tank_id": 51553,
+    "tier": 5,
+    "turrets": 99,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 17685,
+    "guns": 2324,
+    "radios": 535,
+    "suspensions": 35090,
+    "tank_id": 13841,
+    "tier": 8,
+    "turrets": 29459,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4197,
+    "guns": 5476,
+    "radios": 2407,
+    "suspensions": 5218,
+    "tank_id": 2657,
+    "tier": 8,
+    "turrets": 5219,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 11029,
+    "guns": 13844,
+    "radios": 3863,
+    "suspensions": 22802,
+    "tank_id": 54801,
+    "tier": 3,
+    "turrets": 17939,
+    "type": "lightTank"
+  },
+  {
+    "engines": 26149,
+    "guns": 32036,
+    "radios": 4391,
+    "suspensions": 29474,
+    "tank_id": 15137,
+    "tier": 6,
+    "turrets": 25379,
+    "type": "lightTank"
+  },
+  {
+    "engines": 2373,
+    "guns": 1348,
+    "radios": 1095,
+    "suspensions": 2114,
+    "tank_id": 1089,
+    "tier": 4,
+    "turrets": 1859,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 32277,
+    "guns": 28692,
+    "radios": 7959,
+    "suspensions": 51730,
+    "tank_id": 63761,
+    "tier": 8,
+    "turrets": 44307,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 23365,
+    "guns": 12100,
+    "radios": 2887,
+    "suspensions": 37442,
+    "tank_id": 17729,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 15381,
+    "guns": 24084,
+    "radios": 4375,
+    "suspensions": 47378,
+    "tank_id": 61457,
+    "tier": 5,
+    "turrets": 39955,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 17941,
+    "guns": 19988,
+    "radios": 5655,
+    "suspensions": 37138,
+    "tank_id": 14865,
+    "tier": 9,
+    "turrets": 31251,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 4709,
+    "guns": 5732,
+    "radios": 2663,
+    "suspensions": 7266,
+    "tank_id": 3681,
+    "tier": 10,
+    "turrets": 6755,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 6245,
+    "guns": 7268,
+    "radios": 871,
+    "suspensions": 9314,
+    "tank_id": 4705,
+    "tier": 3,
+    "turrets": 8291,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 565,
+    "guns": 564,
+    "radios": 55,
+    "suspensions": 818,
+    "tank_id": 817,
+    "tier": 8,
+    "turrets": 819,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 517,
+    "guns": 4868,
+    "radios": 519,
+    "suspensions": 1538,
+    "tank_id": 769,
+    "tier": 3,
+    "turrets": 1283,
+    "type": "lightTank"
+  },
+  {
+    "engines": 36629,
+    "guns": 32532,
+    "radios": 4119,
+    "suspensions": 57874,
+    "tank_id": 48145,
+    "tier": 8,
+    "turrets": 50195,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 3909,
+    "guns": 2884,
+    "radios": 1863,
+    "suspensions": 3906,
+    "tank_id": 2113,
+    "tier": 5,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 20565,
+    "guns": 18516,
+    "radios": 5719,
+    "suspensions": 33618,
+    "tank_id": 56657,
+    "tier": 8,
+    "turrets": 29267,
+    "type": "heavyTank"
+  },
+  {
+    "engines": 8277,
+    "guns": 6740,
+    "radios": 2135,
+    "suspensions": 8018,
+    "tank_id": 3409,
+    "tier": 3,
+    "turrets": [],
+    "type": "SPG"
+  },
+  {
+    "engines": 19733,
+    "guns": 788,
+    "radios": 535,
+    "suspensions": 39442,
+    "tank_id": 15889,
+    "tier": 6,
+    "turrets": 32531,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 1829,
+    "guns": 1316,
+    "radios": 1063,
+    "suspensions": 1058,
+    "tank_id": 545,
+    "tier": 1,
+    "turrets": 1059,
+    "type": "lightTank"
+  },
+  {
+    "engines": 13093,
+    "guns": 19492,
+    "radios": 2855,
+    "suspensions": 27170,
+    "tank_id": 13857,
+    "tier": 10,
+    "turrets": [],
+    "type": "AT-SPG"
+  },
+  {
+    "engines": 11013,
+    "guns": 41732,
+    "radios": 4615,
+    "suspensions": 54786,
+    "tank_id": 47873,
+    "tier": 3,
+    "turrets": 47619,
+    "type": "mediumTank"
+  },
+  {
+    "engines": 2101,
+    "guns": 2612,
+    "radios": 823,
+    "suspensions": 2610,
+    "tank_id": 1841,
+    "tier": 9,
+    "turrets": 2611,
+    "type": "mediumTank"
+  }
+]

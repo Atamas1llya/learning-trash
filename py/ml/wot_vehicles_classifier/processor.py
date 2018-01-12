@@ -8,6 +8,9 @@ APP_ID = '8ca40e4d4a53687d8e5fae2b3f772674'
 raw_data = json.load(open('./datasets/wot_raw_v2.json', 'r'))
 cache_folder = '__tmcache__'
 
+if not os.path.exists(cache_folder):
+    os.makedirs(cache_folder)
+
 # model:
 # X: [spec_power, damage_per_shot, avg_stun, siege, avg_armor, view_range, reload_time, traverse_speed]
 # Y: [type]

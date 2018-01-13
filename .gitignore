@@ -16,6 +16,7 @@ lib-cov
 
 __pycache__
 __processor_cache__
+__fetcher_cache__
 .DS_Store
 
 # Coverage directory used by tools like istanbul

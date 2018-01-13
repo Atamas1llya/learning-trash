@@ -6,7 +6,9 @@ import processor
 import normalizer
 from knn import KNeighborsClassifier
 
+print('Fetching data...')
 raw_data = fetcher.fetchVehicles()
+print('Processing data...')
 processed_data = processor.process(raw_data)
 normalized_data_x = normalizer.normalize(processed_data["x"])
 
@@ -20,4 +22,4 @@ classifier = KNeighborsClassifier(1)
 classifier.fit(train_x, train_y)
 predictions = classifier.predict(test_x)
 
-print(accuracy_score(test_y, predictions))
+print(f'Done! Accuracy: {accuracy_score(test_y, predictions)}')

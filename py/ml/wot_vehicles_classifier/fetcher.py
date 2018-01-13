@@ -31,7 +31,7 @@ def fetchVehicles():
         for key in wot_data_raw[item].keys():
             if key in required_keys:
                 if isinstance(wot_data_raw[item][key], list) and len(wot_data_raw[item][key]) > 0:
-                    wot_data[index][key] = wot_data_raw[item][key][-1]
+                    wot_data[index][key] = wot_data_raw[item][key][0]
                 else:
                     wot_data[index][key] = wot_data_raw[item][key]
 

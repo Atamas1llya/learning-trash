@@ -20,8 +20,15 @@ const at1images = getDataset('./dataset/at1');
 const allImages = [...t34images, ...at1images];
 
 const eigen = new cv.EigenFaceRecognizer();
-eigen.train(allImages, [0,0,0,0,1,1,1,1]);
+const fisher = new cv.FisherFaceRecognizer();
+const lbph = new cv.LBPHFaceRecognizer();
 
-const testImages = getDataset('./testDataset/t34');
+eigen.train(allImages, [0,0,0,0,1,1,1,1]);
+fisher.train(allImages, [0,0,0,0,1,1,1,1]);
+lbph.train(allImages, [0,0,0,0,1,1,1,1]);
+
+const testImages = getDataset('./testDataset/at1');
 
 runPrediction(eigen, testImages)
+runPrediction(fisher, testImages)
+runPrediction(lbph, testImages)

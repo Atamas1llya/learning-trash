@@ -12,7 +12,7 @@ const lampCredentials = require('./config/config.secure');
   await lamp.init();
 
   screen.on('brightnessChanged', async (brightness) => {
-    const normalizedBrightness = ((brightness - 0.3 - 0.4) / (0.85 - 0.4) * 100);
+    const normalizedBrightness = ((brightness - 0.4) / (0.95 - 0.4) * 100);
 
     if (normalizedBrightness < -30) {
       if (await lamp.device.power()) {
